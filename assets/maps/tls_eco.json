@@ -1,0 +1,1985 @@
+{
+  "generated": 1492439188.253808,
+  "data": [
+    {
+      "id": 10,
+      "date": "unknown",
+      "date_utc": null,
+      "fname": "schema.txt",
+      "fhref": "https://scans.io/data/umich/https/schema.txt",
+      "fsize": "unknown",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 11,
+      "date": "2014-02-05",
+      "date_utc": 1391558400.0,
+      "fname": "certificates/raw_certificates.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/certificates/raw_certificates.csv.gz",
+      "fsize": "33.6 GB",
+      "fhash": "BA2B8623668D46A90538302068AF7C7FF3C51AFA"
+    },
+    {
+      "id": 12,
+      "date": "2014-02-05",
+      "date_utc": 1391558400.0,
+      "fname": "certificates/public_keys.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/certificates/public_keys.csv.gz",
+      "fsize": "8.8 GB",
+      "fhash": "D257FCD8E47F6A355F1B812648694CA13A19E131"
+    },
+    {
+      "id": 13,
+      "date": "2014-02-05",
+      "date_utc": 1391558400.0,
+      "fname": "certificates/extraneous_extensions.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/certificates/extraneous_extensions.csv.gz",
+      "fsize": "10.1 MB",
+      "fhash": "6813462C16D558A2FF5FC6D90183C4AC22CCB166"
+    },
+    {
+      "id": 14,
+      "date": "2014-02-05",
+      "date_utc": 1391558400.0,
+      "fname": "certificates/certificates.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/certificates/certificates.csv.gz",
+      "fsize": "8.6 GB",
+      "fhash": "4E76F042D9A6A5B35167FB5E34243D5A0E0528BC"
+    },
+    {
+      "id": 15,
+      "date": "2012-06-10",
+      "date_utc": 1339286400.0,
+      "fname": "scans/scan_2012-06-10.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-06-10.csv.gz",
+      "fsize": "911 MB",
+      "fhash": "259824EDE2E4ED0DAFAC117EEBB29F1A77286D9A"
+    },
+    {
+      "id": 16,
+      "date": "2012-07-29",
+      "date_utc": 1343520000.0,
+      "fname": "scans/scan_2012-07-29.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-07-29.csv.gz",
+      "fsize": "589 MB",
+      "fhash": "4E2A2C75A05CDA62FF24A6D40F3D8F863017421D"
+    },
+    {
+      "id": 17,
+      "date": "2012-08-22",
+      "date_utc": 1345593600.0,
+      "fname": "scans/scan_2012-08-22.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-08-22.csv.gz",
+      "fsize": "593 MB",
+      "fhash": "26052469D967AFA05C41D9841F437873DDC7B34A"
+    },
+    {
+      "id": 18,
+      "date": "2012-09-15",
+      "date_utc": 1347667200.0,
+      "fname": "scans/scan_2012-09-15.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-09-15.csv.gz",
+      "fsize": "693 MB",
+      "fhash": "DC4408EE86ECD2ABAEA6E9D71F3431D904320B8E"
+    },
+    {
+      "id": 19,
+      "date": "2012-09-22",
+      "date_utc": 1348272000.0,
+      "fname": "scans/scan_2012-09-22.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-09-22.csv.gz",
+      "fsize": "666 MB",
+      "fhash": "1EAC9754AD51E625FE2F82EDC45A0DA8EF749106"
+    },
+    {
+      "id": 20,
+      "date": "2012-09-25",
+      "date_utc": 1348531200.0,
+      "fname": "scans/scan_2012-09-25.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-09-25.csv.gz",
+      "fsize": "587 MB",
+      "fhash": "AFA33E474E9A2CC79EC2D36804D67A4E85833F6E"
+    },
+    {
+      "id": 21,
+      "date": "2012-10-02",
+      "date_utc": 1349136000.0,
+      "fname": "scans/scan_2012-10-02.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-10-02.csv.gz",
+      "fsize": "602 MB",
+      "fhash": "FEE02F0BD4D908FE74D4B5359706BF3F59BF0F25"
+    },
+    {
+      "id": 22,
+      "date": "2012-10-13",
+      "date_utc": 1350086400.0,
+      "fname": "scans/scan_2012-10-13.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-10-13.csv.gz",
+      "fsize": "612 MB",
+      "fhash": "4A8595662B1A8BD3BE32125CA89693122727BD0A"
+    },
+    {
+      "id": 23,
+      "date": "2012-10-18",
+      "date_utc": 1350518400.0,
+      "fname": "scans/scan_2012-10-18.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-10-18.csv.gz",
+      "fsize": "606 MB",
+      "fhash": "729BE6799B04C45AC77AF0AA2DE82922F9DB728B"
+    },
+    {
+      "id": 24,
+      "date": "2012-10-21",
+      "date_utc": 1350777600.0,
+      "fname": "scans/scan_2012-10-21.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-10-21.csv.gz",
+      "fsize": "611 MB",
+      "fhash": "083990FC344482B3E56FBF21F00AC708E55249F9"
+    },
+    {
+      "id": 25,
+      "date": "2012-10-23",
+      "date_utc": 1350950400.0,
+      "fname": "scans/scan_2012-10-23.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-10-23.csv.gz",
+      "fsize": "613 MB",
+      "fhash": "87BB3044417AB25D069DD0B422A98E049A8D5C1B"
+    },
+    {
+      "id": 26,
+      "date": "2012-11-01",
+      "date_utc": 1351728000.0,
+      "fname": "scans/scan_2012-11-01.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-11-01.csv.gz",
+      "fsize": "612 MB",
+      "fhash": "FABA310D6FDA6EA39096C2DC116817C204E2273A"
+    },
+    {
+      "id": 27,
+      "date": "2012-11-02",
+      "date_utc": 1351814400.0,
+      "fname": "scans/scan_2012-11-02.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-11-02.csv.gz",
+      "fsize": "619 MB",
+      "fhash": "6937FEC923255538E3B5967235BCD5E9D9164BCC"
+    },
+    {
+      "id": 28,
+      "date": "2012-11-04",
+      "date_utc": 1351987200.0,
+      "fname": "scans/scan_2012-11-04.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-11-04.csv.gz",
+      "fsize": "621 MB",
+      "fhash": "57794AF2FF8EB8A99AB65E4819038AD9792A625B"
+    },
+    {
+      "id": 29,
+      "date": "2012-11-08",
+      "date_utc": 1352332800.0,
+      "fname": "scans/scan_2012-11-08.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-11-08.csv.gz",
+      "fsize": "619 MB",
+      "fhash": "7C3F1E15D10E572F38C5516D9B9A4CA60ABCCC77"
+    },
+    {
+      "id": 30,
+      "date": "2012-11-10",
+      "date_utc": 1352505600.0,
+      "fname": "scans/scan_2012-11-10.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-11-10.csv.gz",
+      "fsize": "624 MB",
+      "fhash": "43A907670CA1FBD345581CD959D66FDD263B2C28"
+    },
+    {
+      "id": 31,
+      "date": "2012-11-13",
+      "date_utc": 1352764800.0,
+      "fname": "scans/scan_2012-11-13.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-11-13.csv.gz",
+      "fsize": "622 MB",
+      "fhash": "65D210E98A28B0DFC95E81C7328ED62795C34DDF"
+    },
+    {
+      "id": 32,
+      "date": "2012-11-15",
+      "date_utc": 1352937600.0,
+      "fname": "scans/scan_2012-11-15.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-11-15.csv.gz",
+      "fsize": "631 MB",
+      "fhash": "678C8491E0E786C629FFD168961CD184871758CE"
+    },
+    {
+      "id": 33,
+      "date": "2012-11-19",
+      "date_utc": 1353283200.0,
+      "fname": "scans/scan_2012-11-19.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-11-19.csv.gz",
+      "fsize": "628 MB",
+      "fhash": "D4D48A50BB832769AE323913C68BC7C4E6B1FB3D"
+    },
+    {
+      "id": 34,
+      "date": "2012-11-27",
+      "date_utc": 1353974400.0,
+      "fname": "scans/scan_2012-11-27.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-11-27.csv.gz",
+      "fsize": "626 MB",
+      "fhash": "E584C6DCD709C129BDE3BE91A911B66876B74540"
+    },
+    {
+      "id": 35,
+      "date": "2012-11-29",
+      "date_utc": 1354147200.0,
+      "fname": "scans/scan_2012-11-29.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-11-29.csv.gz",
+      "fsize": "633 MB",
+      "fhash": "842378678E5F9FB6AE5FD3EA7683AD9BC535F1D6"
+    },
+    {
+      "id": 36,
+      "date": "2012-12-03",
+      "date_utc": 1354492800.0,
+      "fname": "scans/scan_2012-12-03.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-12-03.csv.gz",
+      "fsize": "633 MB",
+      "fhash": "82C4743695AAB468B1341E13C897B8F7318D8C55"
+    },
+    {
+      "id": 37,
+      "date": "2012-12-05",
+      "date_utc": 1354665600.0,
+      "fname": "scans/scan_2012-12-05.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-12-05.csv.gz",
+      "fsize": "634 MB",
+      "fhash": "B9701AFF4B15A263B10D6F5959E0A65ADD983AAB"
+    },
+    {
+      "id": 38,
+      "date": "2012-12-09",
+      "date_utc": 1355011200.0,
+      "fname": "scans/scan_2012-12-09.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-12-09.csv.gz",
+      "fsize": "632 MB",
+      "fhash": "2157F4EC4B9963CD9149D607FB9BD61715F90F59"
+    },
+    {
+      "id": 39,
+      "date": "2012-12-12",
+      "date_utc": 1355270400.0,
+      "fname": "scans/scan_2012-12-12.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-12-12.csv.gz",
+      "fsize": "639 MB",
+      "fhash": "6AF5FBB5BF0F9AB7B46CB32FB6BA50A065C5EC85"
+    },
+    {
+      "id": 40,
+      "date": "2012-12-14",
+      "date_utc": 1355443200.0,
+      "fname": "scans/scan_2012-12-14.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-12-14.csv.gz",
+      "fsize": "637 MB",
+      "fhash": "09DD3EEA4669DBFA8C8557B942A7B95CE008AD3F"
+    },
+    {
+      "id": 41,
+      "date": "2012-12-16",
+      "date_utc": 1355616000.0,
+      "fname": "scans/scan_2012-12-16.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-12-16.csv.gz",
+      "fsize": "634 MB",
+      "fhash": "0277275F6E8CCFEECD2AF3E7E51D930CC0578B57"
+    },
+    {
+      "id": 42,
+      "date": "2012-12-18",
+      "date_utc": 1355788800.0,
+      "fname": "scans/scan_2012-12-18.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-12-18.csv.gz",
+      "fsize": "636 MB",
+      "fhash": "7BA8D60A78CDDB2060872B0ED99476D6C48733B9"
+    },
+    {
+      "id": 43,
+      "date": "2012-12-20",
+      "date_utc": 1355961600.0,
+      "fname": "scans/scan_2012-12-20.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-12-20.csv.gz",
+      "fsize": "637 MB",
+      "fhash": "60FFA468991D626222DD53589ECEE6C6EAAE7CE4"
+    },
+    {
+      "id": 44,
+      "date": "2012-12-22",
+      "date_utc": 1356134400.0,
+      "fname": "scans/scan_2012-12-22.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-12-22.csv.gz",
+      "fsize": "637 MB",
+      "fhash": "6632448C0C11F791312CB15849837772C73BD11F"
+    },
+    {
+      "id": 45,
+      "date": "2012-12-24",
+      "date_utc": 1356307200.0,
+      "fname": "scans/scan_2012-12-24.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-12-24.csv.gz",
+      "fsize": "638 MB",
+      "fhash": "EBE3F447F327C67EDB664227C2332F44DC8CF4B4"
+    },
+    {
+      "id": 46,
+      "date": "2012-12-26",
+      "date_utc": 1356480000.0,
+      "fname": "scans/scan_2012-12-26.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-12-26.csv.gz",
+      "fsize": "636 MB",
+      "fhash": "42209DAB0221003442BBBA7BE14D3D6468D60663"
+    },
+    {
+      "id": 47,
+      "date": "2012-12-28",
+      "date_utc": 1356652800.0,
+      "fname": "scans/scan_2012-12-28.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-12-28.csv.gz",
+      "fsize": "640 MB",
+      "fhash": "5922E8B31F39B03C7838B76F1FDE197090C91370"
+    },
+    {
+      "id": 48,
+      "date": "2012-12-30",
+      "date_utc": 1356825600.0,
+      "fname": "scans/scan_2012-12-30.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2012-12-30.csv.gz",
+      "fsize": "639 MB",
+      "fhash": "84C008AED51B5FD2710B6D057D2F82DB14E226A1"
+    },
+    {
+      "id": 49,
+      "date": "2013-01-03",
+      "date_utc": 1357171200.0,
+      "fname": "scans/scan_2013-01-03.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-01-03.csv.gz",
+      "fsize": "639 MB",
+      "fhash": "993A0ABF478FB9A494CBDC6FC7A21A0AD43DE8E1"
+    },
+    {
+      "id": 50,
+      "date": "2013-01-07",
+      "date_utc": 1357516800.0,
+      "fname": "scans/scan_2013-01-07.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-01-07.csv.gz",
+      "fsize": "641 MB",
+      "fhash": "809C66EE6D46A114DEE8179A116AE3858A6F7938"
+    },
+    {
+      "id": 51,
+      "date": "2013-01-11",
+      "date_utc": 1357862400.0,
+      "fname": "scans/scan_2013-01-11.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-01-11.csv.gz",
+      "fsize": "643 MB",
+      "fhash": "70C161983B767FA0E1489ED52BDB7F5F1D7142F2"
+    },
+    {
+      "id": 52,
+      "date": "2013-01-13",
+      "date_utc": 1358035200.0,
+      "fname": "scans/scan_2013-01-13.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-01-13.csv.gz",
+      "fsize": "645 MB",
+      "fhash": "E307053E8E25BCEE5AAD724D6428EEE2E6E1F655"
+    },
+    {
+      "id": 53,
+      "date": "2013-01-15",
+      "date_utc": 1358208000.0,
+      "fname": "scans/scan_2013-01-15.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-01-15.csv.gz",
+      "fsize": "650 MB",
+      "fhash": "24A7E66C78E21C657AFD2918CE0155A29E9F7383"
+    },
+    {
+      "id": 54,
+      "date": "2013-01-18",
+      "date_utc": 1358467200.0,
+      "fname": "scans/scan_2013-01-18.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-01-18.csv.gz",
+      "fsize": "648 MB",
+      "fhash": "E540A123B293F3AD9C772EFB600AD84F61CABC23"
+    },
+    {
+      "id": 55,
+      "date": "2013-01-20",
+      "date_utc": 1358640000.0,
+      "fname": "scans/scan_2013-01-20.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-01-20.csv.gz",
+      "fsize": "649 MB",
+      "fhash": "FFEA4C573145E33F3167139D9ADE2E563BA2C2C5"
+    },
+    {
+      "id": 56,
+      "date": "2013-01-22",
+      "date_utc": 1358812800.0,
+      "fname": "scans/scan_2013-01-22.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-01-22.csv.gz",
+      "fsize": "649 MB",
+      "fhash": "15B7143B001718ED701AB39EDB691E7B1EE9C749"
+    },
+    {
+      "id": 57,
+      "date": "2013-01-24",
+      "date_utc": 1358985600.0,
+      "fname": "scans/scan_2013-01-24.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-01-24.csv.gz",
+      "fsize": "650 MB",
+      "fhash": "F742DD46BAFDC6EF0968BDA1432BB50DEB9C3610"
+    },
+    {
+      "id": 58,
+      "date": "2013-01-26",
+      "date_utc": 1359158400.0,
+      "fname": "scans/scan_2013-01-26.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-01-26.csv.gz",
+      "fsize": "647 MB",
+      "fhash": "4848B3D7B6F737DB58CB67C8E3AAB0B6A850D5F5"
+    },
+    {
+      "id": 59,
+      "date": "2013-01-28",
+      "date_utc": 1359331200.0,
+      "fname": "scans/scan_2013-01-28.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-01-28.csv.gz",
+      "fsize": "649 MB",
+      "fhash": "12A59F94E4A79380A250E8BE30E48A5B14F32BE9"
+    },
+    {
+      "id": 60,
+      "date": "2013-01-30",
+      "date_utc": 1359504000.0,
+      "fname": "scans/scan_2013-01-30.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-01-30.csv.gz",
+      "fsize": "651 MB",
+      "fhash": "374DA2826AD2800E3A27A3FB35E11D04E29B147A"
+    },
+    {
+      "id": 61,
+      "date": "2013-02-01",
+      "date_utc": 1359676800.0,
+      "fname": "scans/scan_2013-02-01.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-02-01.csv.gz",
+      "fsize": "650 MB",
+      "fhash": "016BD855D1AB2D7A170F3479EF58B9FCC4A30FB2"
+    },
+    {
+      "id": 62,
+      "date": "2013-02-03",
+      "date_utc": 1359849600.0,
+      "fname": "scans/scan_2013-02-03.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-02-03.csv.gz",
+      "fsize": "653 MB",
+      "fhash": "24919A7136895588D3D93639784D181AEB26B849"
+    },
+    {
+      "id": 63,
+      "date": "2013-02-05",
+      "date_utc": 1360022400.0,
+      "fname": "scans/scan_2013-02-05.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-02-05.csv.gz",
+      "fsize": "649 MB",
+      "fhash": "118A52861903BBB3F37138841DDA39986E396C11"
+    },
+    {
+      "id": 64,
+      "date": "2013-02-07",
+      "date_utc": 1360195200.0,
+      "fname": "scans/scan_2013-02-07.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-02-07.csv.gz",
+      "fsize": "651 MB",
+      "fhash": "18E08A756348E55BCBAC820DE472E9987F030DE7"
+    },
+    {
+      "id": 65,
+      "date": "2013-02-09",
+      "date_utc": 1360368000.0,
+      "fname": "scans/scan_2013-02-09.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-02-09.csv.gz",
+      "fsize": "649 MB",
+      "fhash": "3060C22C8A26CFD8F2DBAB95B20A35839AC6C45B"
+    },
+    {
+      "id": 66,
+      "date": "2013-02-12",
+      "date_utc": 1360627200.0,
+      "fname": "scans/scan_2013-02-12.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-02-12.csv.gz",
+      "fsize": "657 MB",
+      "fhash": "08DF8BFF9F196C53D727F0FCF2AA453A98CEE6D5"
+    },
+    {
+      "id": 67,
+      "date": "2013-02-14",
+      "date_utc": 1360800000.0,
+      "fname": "scans/scan_2013-02-14.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-02-14.csv.gz",
+      "fsize": "657 MB",
+      "fhash": "78DB8439DDDE21A49592F94E2874E716984A8BB0"
+    },
+    {
+      "id": 68,
+      "date": "2013-02-16",
+      "date_utc": 1360972800.0,
+      "fname": "scans/scan_2013-02-16.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-02-16.csv.gz",
+      "fsize": "657 MB",
+      "fhash": "B872BF785A5D3C2CC12E4ACBAB0C549445EDEA3C"
+    },
+    {
+      "id": 69,
+      "date": "2013-02-18",
+      "date_utc": 1361145600.0,
+      "fname": "scans/scan_2013-02-18.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-02-18.csv.gz",
+      "fsize": "664 MB",
+      "fhash": "805A0BE951616B36CFBD67F6BA0687D3E6BC85E0"
+    },
+    {
+      "id": 70,
+      "date": "2013-02-20",
+      "date_utc": 1361318400.0,
+      "fname": "scans/scan_2013-02-20.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-02-20.csv.gz",
+      "fsize": "664 MB",
+      "fhash": "E60338B73BF0B8FB58C64BF4B396FBCFECCC3313"
+    },
+    {
+      "id": 71,
+      "date": "2013-02-22",
+      "date_utc": 1361491200.0,
+      "fname": "scans/scan_2013-02-22.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-02-22.csv.gz",
+      "fsize": "664 MB",
+      "fhash": "88035896F68F97F716D3B431B34745676DE54D27"
+    },
+    {
+      "id": 72,
+      "date": "2013-02-24",
+      "date_utc": 1361664000.0,
+      "fname": "scans/scan_2013-02-24.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-02-24.csv.gz",
+      "fsize": "664 MB",
+      "fhash": "5228D3A9F2201AED42DBCAD7611112B5D38EDE80"
+    },
+    {
+      "id": 73,
+      "date": "2013-02-28",
+      "date_utc": 1362009600.0,
+      "fname": "scans/scan_2013-02-28.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-02-28.csv.gz",
+      "fsize": "661 MB",
+      "fhash": "8116963F19C0D93480CDBAD0A4385BE81DFEAEEF"
+    },
+    {
+      "id": 74,
+      "date": "2013-03-04",
+      "date_utc": 1362355200.0,
+      "fname": "scans/scan_2013-03-04.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-03-04.csv.gz",
+      "fsize": "663 MB",
+      "fhash": "99DA407ED78306F8C547F83766B5BEA3898D355A"
+    },
+    {
+      "id": 75,
+      "date": "2013-03-06",
+      "date_utc": 1362528000.0,
+      "fname": "scans/scan_2013-03-06.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-03-06.csv.gz",
+      "fsize": "664 MB",
+      "fhash": "D29386C9DB1D1EA30B7452147F38A2028282EBE9"
+    },
+    {
+      "id": 76,
+      "date": "2013-03-12",
+      "date_utc": 1363046400.0,
+      "fname": "scans/scan_2013-03-12.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-03-12.csv.gz",
+      "fsize": "657 MB",
+      "fhash": "8E6E8B51B21726F3400D568AF7FCB18441F50CF4"
+    },
+    {
+      "id": 77,
+      "date": "2013-03-14",
+      "date_utc": 1363219200.0,
+      "fname": "scans/scan_2013-03-14.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-03-14.csv.gz",
+      "fsize": "654 MB",
+      "fhash": "478E54E2F5929E97645B57CF44C6D7748FD500EA"
+    },
+    {
+      "id": 78,
+      "date": "2013-03-18",
+      "date_utc": 1363564800.0,
+      "fname": "scans/scan_2013-03-18.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-03-18.csv.gz",
+      "fsize": "670 MB",
+      "fhash": "6B2B16C77ABAAB5F1FBB5981F80DE93CF09CCFFB"
+    },
+    {
+      "id": 79,
+      "date": "2013-03-20",
+      "date_utc": 1363737600.0,
+      "fname": "scans/scan_2013-03-20.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-03-20.csv.gz",
+      "fsize": "670 MB",
+      "fhash": "A7A9042E800F7588EA2E69B284840B6B5EA42022"
+    },
+    {
+      "id": 80,
+      "date": "2013-03-22",
+      "date_utc": 1363910400.0,
+      "fname": "scans/scan_2013-03-22.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-03-22.csv.gz",
+      "fsize": "669 MB",
+      "fhash": "8F132A8A03D469EF5B1F88361EE5CD654F81F7CB"
+    },
+    {
+      "id": 81,
+      "date": "2013-03-26",
+      "date_utc": 1364256000.0,
+      "fname": "scans/scan_2013-03-26.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-03-26.csv.gz",
+      "fsize": "629 MB",
+      "fhash": "D5B3E806E637F00D1F53F118D934350878974D71"
+    },
+    {
+      "id": 82,
+      "date": "2013-04-11",
+      "date_utc": 1365638400.0,
+      "fname": "scans/scan_2013-04-11.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-04-11.csv.gz",
+      "fsize": "677 MB",
+      "fhash": "27EE4AC567F2F5A04B4223DE92B2867CEE58E97F"
+    },
+    {
+      "id": 83,
+      "date": "2013-04-13",
+      "date_utc": 1365811200.0,
+      "fname": "scans/scan_2013-04-13.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-04-13.csv.gz",
+      "fsize": "683 MB",
+      "fhash": "6BBE41653519DC11E78E604CD8B18353F846CA56"
+    },
+    {
+      "id": 84,
+      "date": "2013-04-26",
+      "date_utc": 1366934400.0,
+      "fname": "scans/scan_2013-04-26.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-04-26.csv.gz",
+      "fsize": "691 MB",
+      "fhash": "5911743F3E1E6514898F09BA65C84A969CC1B6E3"
+    },
+    {
+      "id": 85,
+      "date": "2013-04-28",
+      "date_utc": 1367107200.0,
+      "fname": "scans/scan_2013-04-28.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-04-28.csv.gz",
+      "fsize": "689 MB",
+      "fhash": "F217CF138B271C333F3C26870012CC5D8CF8FC73"
+    },
+    {
+      "id": 86,
+      "date": "2013-04-30",
+      "date_utc": 1367280000.0,
+      "fname": "scans/scan_2013-04-30.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-04-30.csv.gz",
+      "fsize": "693 MB",
+      "fhash": "56FFC5BBFF23330770885821FAF6A62AFC840468"
+    },
+    {
+      "id": 87,
+      "date": "2013-05-02",
+      "date_utc": 1367452800.0,
+      "fname": "scans/scan_2013-05-02.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-05-02.csv.gz",
+      "fsize": "696 MB",
+      "fhash": "DCC991AD83168E1B28E763C5D3C3A3F415F12F87"
+    },
+    {
+      "id": 88,
+      "date": "2013-05-04",
+      "date_utc": 1367625600.0,
+      "fname": "scans/scan_2013-05-04.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-05-04.csv.gz",
+      "fsize": "698 MB",
+      "fhash": "BD2AC9263CE9C660ADF6DD4F37EBF3157779E81F"
+    },
+    {
+      "id": 89,
+      "date": "2013-05-08",
+      "date_utc": 1367971200.0,
+      "fname": "scans/scan_2013-05-08.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-05-08.csv.gz",
+      "fsize": "696 MB",
+      "fhash": "9687D56B06CED3BC95D6E226D4A8BA57C3EE1828"
+    },
+    {
+      "id": 90,
+      "date": "2013-05-10",
+      "date_utc": 1368144000.0,
+      "fname": "scans/scan_2013-05-10.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-05-10.csv.gz",
+      "fsize": "697 MB",
+      "fhash": "4825044CB4FDE1335AF4286E820B00A4CDFE7B88"
+    },
+    {
+      "id": 91,
+      "date": "2013-05-14",
+      "date_utc": 1368489600.0,
+      "fname": "scans/scan_2013-05-14.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-05-14.csv.gz",
+      "fsize": "698 MB",
+      "fhash": "726C73548DC1A8671C6D91FB4544D7323703EF7E"
+    },
+    {
+      "id": 92,
+      "date": "2013-05-16",
+      "date_utc": 1368662400.0,
+      "fname": "scans/scan_2013-05-16.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-05-16.csv.gz",
+      "fsize": "693 MB",
+      "fhash": "CF62EE7C81DF2539C9FE770C737D39A10FAD7924"
+    },
+    {
+      "id": 93,
+      "date": "2013-05-20",
+      "date_utc": 1369008000.0,
+      "fname": "scans/scan_2013-05-20.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-05-20.csv.gz",
+      "fsize": "702 MB",
+      "fhash": "142B2C552B3C5CE56675DA3973505C9E4633806A"
+    },
+    {
+      "id": 94,
+      "date": "2013-05-22",
+      "date_utc": 1369180800.0,
+      "fname": "scans/scan_2013-05-22.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-05-22.csv.gz",
+      "fsize": "706 MB",
+      "fhash": "0AE949D2E60F143EC65EE814E0F0D212C733E0D1"
+    },
+    {
+      "id": 95,
+      "date": "2013-05-28",
+      "date_utc": 1369699200.0,
+      "fname": "scans/scan_2013-05-28.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-05-28.csv.gz",
+      "fsize": "700 MB",
+      "fhash": "69C73986B528050502E67E08783531DEA5C15B2D"
+    },
+    {
+      "id": 96,
+      "date": "2013-05-29",
+      "date_utc": 1369785600.0,
+      "fname": "scans/scan_2013-05-29.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-05-29.csv.gz",
+      "fsize": "704 MB",
+      "fhash": "3D3F894DACEA3F0CC5FE6102805F79AF64CA9D90"
+    },
+    {
+      "id": 97,
+      "date": "2013-05-31",
+      "date_utc": 1369958400.0,
+      "fname": "scans/scan_2013-05-31.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-05-31.csv.gz",
+      "fsize": "704 MB",
+      "fhash": "C6AACADC7D7519E0C49BA4952F5947A2A85A0A44"
+    },
+    {
+      "id": 98,
+      "date": "2013-06-16",
+      "date_utc": 1371340800.0,
+      "fname": "scans/scan_2013-06-16.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-06-16.csv.gz",
+      "fsize": "699 MB",
+      "fhash": "AFB465A18B43835348FAC1F686DCE864D70A8F91"
+    },
+    {
+      "id": 99,
+      "date": "2013-06-22",
+      "date_utc": 1371859200.0,
+      "fname": "scans/scan_2013-06-22.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-06-22.csv.gz",
+      "fsize": "707 MB",
+      "fhash": "21046D64A35FD25903EB986068C6392ED2A0C8EE"
+    },
+    {
+      "id": 100,
+      "date": "2013-06-29",
+      "date_utc": 1372464000.0,
+      "fname": "scans/scan_2013-06-29.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-06-29.csv.gz",
+      "fsize": "707 MB",
+      "fhash": "2A94B868B5190D4E849F91EEA40D8E2A9FA19F8D"
+    },
+    {
+      "id": 101,
+      "date": "2013-07-04",
+      "date_utc": 1372896000.0,
+      "fname": "scans/scan_2013-07-04.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-07-04.csv.gz",
+      "fsize": "689 MB",
+      "fhash": "384FAEC6DDB86A1141337973D919A265BF66FC83"
+    },
+    {
+      "id": 102,
+      "date": "2013-07-06",
+      "date_utc": 1373068800.0,
+      "fname": "scans/scan_2013-07-06.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-07-06.csv.gz",
+      "fsize": "726 MB",
+      "fhash": "2EB01D60FB285805CDE401C8EA9F8129D4264B88"
+    },
+    {
+      "id": 103,
+      "date": "2013-07-07",
+      "date_utc": 1373155200.0,
+      "fname": "scans/scan_2013-07-07.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-07-07.csv.gz",
+      "fsize": "729 MB",
+      "fhash": "E6B32A7CB62969404B6AB25D3CB69DE77AD23B3B"
+    },
+    {
+      "id": 104,
+      "date": "2013-07-08",
+      "date_utc": 1373241600.0,
+      "fname": "scans/scan_2013-07-08.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-07-08.csv.gz",
+      "fsize": "733 MB",
+      "fhash": "D1CD6ED549F295CA57BD33EFDC6266D9DA1CD9A1"
+    },
+    {
+      "id": 105,
+      "date": "2013-07-11",
+      "date_utc": 1373500800.0,
+      "fname": "scans/scan_2013-07-11.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-07-11.csv.gz",
+      "fsize": "736 MB",
+      "fhash": "4D390E09D3F6CEE54B1B2050CBD2D75136D8BEDD"
+    },
+    {
+      "id": 106,
+      "date": "2013-07-22",
+      "date_utc": 1374451200.0,
+      "fname": "scans/scan_2013-07-22.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-07-22.csv.gz",
+      "fsize": "718 MB",
+      "fhash": "E2ACE1C728CB36742232600E8BC97875061BF127"
+    },
+    {
+      "id": 107,
+      "date": "2013-07-24",
+      "date_utc": 1374624000.0,
+      "fname": "scans/scan_2013-07-24.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-07-24.csv.gz",
+      "fsize": "736 MB",
+      "fhash": "41884D3B5356B89C82D9EE641E544E2F5F24D93C"
+    },
+    {
+      "id": 108,
+      "date": "2013-07-27",
+      "date_utc": 1374883200.0,
+      "fname": "scans/scan_2013-07-27.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-07-27.csv.gz",
+      "fsize": "699 MB",
+      "fhash": "B5D04A0A6DCCAA5F6AAD087D9BF82ECD4C3C32AF"
+    },
+    {
+      "id": 109,
+      "date": "2013-07-29",
+      "date_utc": 1375056000.0,
+      "fname": "scans/scan_2013-07-29.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-07-29.csv.gz",
+      "fsize": "739 MB",
+      "fhash": "90D6641E2986C94D4D15C0CA4AFDE7F963B50CA2"
+    },
+    {
+      "id": 110,
+      "date": "2013-07-31",
+      "date_utc": 1375228800.0,
+      "fname": "scans/scan_2013-07-31.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-07-31.csv.gz",
+      "fsize": "735 MB",
+      "fhash": "4A8A047B14A49AECD7011164801BF0AFE1D1BB94"
+    },
+    {
+      "id": 111,
+      "date": "2013-08-02",
+      "date_utc": 1375401600.0,
+      "fname": "scans/scan_2013-08-02.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-08-02.csv.gz",
+      "fsize": "739 MB",
+      "fhash": "52AB5DA54E3E681FA0EF49FE4E3609979E5562A2"
+    },
+    {
+      "id": 112,
+      "date": "2013-08-04",
+      "date_utc": 1375574400.0,
+      "fname": "scans/scan_2013-08-04.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-08-04.csv.gz",
+      "fsize": "736 MB",
+      "fhash": "9F2C4AE02F2461C23EA8845705D9A0E056D94CD5"
+    },
+    {
+      "id": 113,
+      "date": "2013-08-07",
+      "date_utc": 1375833600.0,
+      "fname": "scans/scan_2013-08-07.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-08-07.csv.gz",
+      "fsize": "744 MB",
+      "fhash": "7C0656BD95945B8BA0F461BD37564E708F4BC328"
+    },
+    {
+      "id": 114,
+      "date": "2013-08-09",
+      "date_utc": 1376006400.0,
+      "fname": "scans/scan_2013-08-09.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-08-09.csv.gz",
+      "fsize": "744 MB",
+      "fhash": "C61B2D07B21A3DC84BED394D0A9BA5CF50C8F957"
+    },
+    {
+      "id": 115,
+      "date": "2013-08-11",
+      "date_utc": 1376179200.0,
+      "fname": "scans/scan_2013-08-11.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-08-11.csv.gz",
+      "fsize": "745 MB",
+      "fhash": "43432761406742315706C5079390592776A5A373"
+    },
+    {
+      "id": 116,
+      "date": "2013-08-29",
+      "date_utc": 1377734400.0,
+      "fname": "scans/scan_2013-08-29.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-08-29.csv.gz",
+      "fsize": "731 MB",
+      "fhash": "572C96F2AD4861C9C9864065AB413692B49845C1"
+    },
+    {
+      "id": 117,
+      "date": "2013-09-01",
+      "date_utc": 1377993600.0,
+      "fname": "scans/scan_2013-09-01.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-09-01.csv.gz",
+      "fsize": "742 MB",
+      "fhash": "5CE193A6ACB6AD5D29BF809D7CE2869E38FD6950"
+    },
+    {
+      "id": 118,
+      "date": "2013-09-02",
+      "date_utc": 1378080000.0,
+      "fname": "scans/scan_2013-09-02.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-09-02.csv.gz",
+      "fsize": "747 MB",
+      "fhash": "B316F2F3FE7BB4C95DEEAFD410639957ADDFE5B2"
+    },
+    {
+      "id": 119,
+      "date": "2013-09-04",
+      "date_utc": 1378252800.0,
+      "fname": "scans/scan_2013-09-04.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-09-04.csv.gz",
+      "fsize": "750 MB",
+      "fhash": "97B87ADF65FDB87853E2B8B6C064CFAE9C2E2260"
+    },
+    {
+      "id": 120,
+      "date": "2013-09-05",
+      "date_utc": 1378339200.0,
+      "fname": "scans/scan_2013-09-05.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-09-05.csv.gz",
+      "fsize": "751 MB",
+      "fhash": "52CDAA36B0F0EB9A4596BFEFCB8AC90A18F1438D"
+    },
+    {
+      "id": 121,
+      "date": "2013-09-07",
+      "date_utc": 1378512000.0,
+      "fname": "scans/scan_2013-09-07.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-09-07.csv.gz",
+      "fsize": "752 MB",
+      "fhash": "ED920D0F23E49433ED1818535D762F3DBF69F022"
+    },
+    {
+      "id": 122,
+      "date": "2013-09-11",
+      "date_utc": 1378857600.0,
+      "fname": "scans/scan_2013-09-11.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-09-11.csv.gz",
+      "fsize": "756 MB",
+      "fhash": "CFC80626EC8B4CE303FAF2C04C8600325A3FAD04"
+    },
+    {
+      "id": 123,
+      "date": "2013-09-13",
+      "date_utc": 1379030400.0,
+      "fname": "scans/scan_2013-09-13.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-09-13.csv.gz",
+      "fsize": "761 MB",
+      "fhash": "08A2379A881F819A0F3DDDD34F7EB2596851D4C1"
+    },
+    {
+      "id": 124,
+      "date": "2013-09-16",
+      "date_utc": 1379289600.0,
+      "fname": "scans/scan_2013-09-16.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-09-16.csv.gz",
+      "fsize": "765 MB",
+      "fhash": "CD8569EEC6877DB00102B5978546F40C404725A9"
+    },
+    {
+      "id": 125,
+      "date": "2013-11-07",
+      "date_utc": 1383782400.0,
+      "fname": "scans/scan_2013-11-07.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-11-07.csv.gz",
+      "fsize": "783 MB",
+      "fhash": "4421A20526E32A7D3767082CA68DA470DF3895CA"
+    },
+    {
+      "id": 126,
+      "date": "2013-11-11",
+      "date_utc": 1384128000.0,
+      "fname": "scans/scan_2013-11-11.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-11-11.csv.gz",
+      "fsize": "807 MB",
+      "fhash": "5297220DD3E8A2D40C1985AF7693A7C36A4DF008"
+    },
+    {
+      "id": 127,
+      "date": "2013-11-12",
+      "date_utc": 1384214400.0,
+      "fname": "scans/scan_2013-11-12.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-11-12.csv.gz",
+      "fsize": "813 MB",
+      "fhash": "B9182ECC054FB666EFC59D865C4E85A9004546EB"
+    },
+    {
+      "id": 128,
+      "date": "2013-12-05",
+      "date_utc": 1386201600.0,
+      "fname": "scans/scan_2013-12-05.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-05.csv.gz",
+      "fsize": "793 MB",
+      "fhash": "0DF7FE906BD9A5A473AAFC42BBD6C9CA1FBCFDCF"
+    },
+    {
+      "id": 129,
+      "date": "2013-12-07",
+      "date_utc": 1386374400.0,
+      "fname": "scans/scan_2013-12-07.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-07.csv.gz",
+      "fsize": "794 MB",
+      "fhash": "AB6B678BFCCC232C2921E14262C824392C86A7AF"
+    },
+    {
+      "id": 130,
+      "date": "2013-12-09",
+      "date_utc": 1386547200.0,
+      "fname": "scans/scan_2013-12-09.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-09.csv.gz",
+      "fsize": "800 MB",
+      "fhash": "7FF530412A5AF831C9595F4347AFA5F86D7F0EF8"
+    },
+    {
+      "id": 131,
+      "date": "2013-12-10",
+      "date_utc": 1386633600.0,
+      "fname": "scans/scan_2013-12-10.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-10.csv.gz",
+      "fsize": "798 MB",
+      "fhash": "96435B7C6AA315AA0EC8540433C6DBD4189A5D23"
+    },
+    {
+      "id": 132,
+      "date": "2013-12-12",
+      "date_utc": 1386806400.0,
+      "fname": "scans/scan_2013-12-12.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-12.csv.gz",
+      "fsize": "799 MB",
+      "fhash": "F4EC36B8830EBA095FDBF54E6EFDB4E49631F96E"
+    },
+    {
+      "id": 133,
+      "date": "2013-12-13",
+      "date_utc": 1386892800.0,
+      "fname": "scans/scan_2013-12-13.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-13.csv.gz",
+      "fsize": "799 MB",
+      "fhash": "6C171101B83C0745E26747F5FE38AD3866A64380"
+    },
+    {
+      "id": 134,
+      "date": "2013-12-14",
+      "date_utc": 1386979200.0,
+      "fname": "scans/scan_2013-12-14.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-14.csv.gz",
+      "fsize": "797 MB",
+      "fhash": "23A8B3084E2C5BD5B1D17FFE3E3A24D60DE4CAE9"
+    },
+    {
+      "id": 135,
+      "date": "2013-12-15",
+      "date_utc": 1387065600.0,
+      "fname": "scans/scan_2013-12-15.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-15.csv.gz",
+      "fsize": "796 MB",
+      "fhash": "9DD9ADC37A9C72E0DE298EA225D05F0C53A40352"
+    },
+    {
+      "id": 136,
+      "date": "2013-12-16",
+      "date_utc": 1387152000.0,
+      "fname": "scans/scan_2013-12-16.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-16.csv.gz",
+      "fsize": "797 MB",
+      "fhash": "56448D0D033F1506B567BF3581B14990991A093B"
+    },
+    {
+      "id": 137,
+      "date": "2013-12-17",
+      "date_utc": 1387238400.0,
+      "fname": "scans/scan_2013-12-17.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-17.csv.gz",
+      "fsize": "800 MB",
+      "fhash": "984BC14D2152666D9AF7330C490498FF7952B5A3"
+    },
+    {
+      "id": 138,
+      "date": "2013-12-18",
+      "date_utc": 1387324800.0,
+      "fname": "scans/scan_2013-12-18.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-18.csv.gz",
+      "fsize": "799 MB",
+      "fhash": "7C747FD963B62000784275CF87F84321F836DFE3"
+    },
+    {
+      "id": 139,
+      "date": "2013-12-19",
+      "date_utc": 1387411200.0,
+      "fname": "scans/scan_2013-12-19.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-19.csv.gz",
+      "fsize": "800 MB",
+      "fhash": "1EF66B9896E3138216A6A6A155D62D80D053F30E"
+    },
+    {
+      "id": 140,
+      "date": "2013-12-20",
+      "date_utc": 1387497600.0,
+      "fname": "scans/scan_2013-12-20.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-20.csv.gz",
+      "fsize": "800 MB",
+      "fhash": "F7364D71993624512D4DE00F0E3FC8671608FDE9"
+    },
+    {
+      "id": 141,
+      "date": "2013-12-21",
+      "date_utc": 1387584000.0,
+      "fname": "scans/scan_2013-12-21.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-21.csv.gz",
+      "fsize": "802 MB",
+      "fhash": "B71044156535715B4AB14E23BF1536545F305089"
+    },
+    {
+      "id": 142,
+      "date": "2013-12-22",
+      "date_utc": 1387670400.0,
+      "fname": "scans/scan_2013-12-22.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-22.csv.gz",
+      "fsize": "799 MB",
+      "fhash": "D96F1E5AD336E74092F33243E47020939AE8E088"
+    },
+    {
+      "id": 143,
+      "date": "2013-12-23",
+      "date_utc": 1387756800.0,
+      "fname": "scans/scan_2013-12-23.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-23.csv.gz",
+      "fsize": "802 MB",
+      "fhash": "17DF7C86C6FC23ACF9513D1E160468912B3ECC26"
+    },
+    {
+      "id": 144,
+      "date": "2013-12-24",
+      "date_utc": 1387843200.0,
+      "fname": "scans/scan_2013-12-24.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-24.csv.gz",
+      "fsize": "803 MB",
+      "fhash": "8092FFEEAB0B4CE4A3EFF81E10BEBE3C56B45817"
+    },
+    {
+      "id": 145,
+      "date": "2013-12-25",
+      "date_utc": 1387929600.0,
+      "fname": "scans/scan_2013-12-25.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-25.csv.gz",
+      "fsize": "804 MB",
+      "fhash": "924CEC33B057CA94ED1246B63EC9B4674F106091"
+    },
+    {
+      "id": 146,
+      "date": "2013-12-26",
+      "date_utc": 1388016000.0,
+      "fname": "scans/scan_2013-12-26.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-26.csv.gz",
+      "fsize": "805 MB",
+      "fhash": "5460FB762F200081A5B58165FC131C4855FD6F46"
+    },
+    {
+      "id": 147,
+      "date": "2013-12-27",
+      "date_utc": 1388102400.0,
+      "fname": "scans/scan_2013-12-27.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-27.csv.gz",
+      "fsize": "807 MB",
+      "fhash": "D9DADB701CA9F4356EBF84FC359AABCB5C69A3EC"
+    },
+    {
+      "id": 148,
+      "date": "2013-12-28",
+      "date_utc": 1388188800.0,
+      "fname": "scans/scan_2013-12-28.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-28.csv.gz",
+      "fsize": "805 MB",
+      "fhash": "213DEE68BFE2905A940356ACE8E9E5ABB81BA64E"
+    },
+    {
+      "id": 149,
+      "date": "2013-12-29",
+      "date_utc": 1388275200.0,
+      "fname": "scans/scan_2013-12-29.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-29.csv.gz",
+      "fsize": "805 MB",
+      "fhash": "E0152797DC398413DE8EDAE5367CDBB39207827E"
+    },
+    {
+      "id": 150,
+      "date": "2013-12-31",
+      "date_utc": 1388448000.0,
+      "fname": "scans/scan_2013-12-31.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2013-12-31.csv.gz",
+      "fsize": "805 MB",
+      "fhash": "3977D365FEE0F95456D8A379729A46B88EEEA39D"
+    },
+    {
+      "id": 151,
+      "date": "2014-01-01",
+      "date_utc": 1388534400.0,
+      "fname": "scans/scan_2014-01-01.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-01.csv.gz",
+      "fsize": "805 MB",
+      "fhash": "81CD90B5AD6D2DC281647291A37B280A6F0BC787"
+    },
+    {
+      "id": 152,
+      "date": "2014-01-02",
+      "date_utc": 1388620800.0,
+      "fname": "scans/scan_2014-01-02.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-02.csv.gz",
+      "fsize": "806 MB",
+      "fhash": "AF9EF85F156CE6C2D4EDEA015FB74885B1114299"
+    },
+    {
+      "id": 153,
+      "date": "2014-01-03",
+      "date_utc": 1388707200.0,
+      "fname": "scans/scan_2014-01-03.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-03.csv.gz",
+      "fsize": "806 MB",
+      "fhash": "0238CBF8F9E25BFE8441B5C3D82043975BED7DE7"
+    },
+    {
+      "id": 154,
+      "date": "2014-01-05",
+      "date_utc": 1388880000.0,
+      "fname": "scans/scan_2014-01-05.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-05.csv.gz",
+      "fsize": "806 MB",
+      "fhash": "8AF78ED553D3055ACFA207E4AF17678738C57645"
+    },
+    {
+      "id": 155,
+      "date": "2014-01-06",
+      "date_utc": 1388966400.0,
+      "fname": "scans/scan_2014-01-06.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-06.csv.gz",
+      "fsize": "807 MB",
+      "fhash": "4912257109E20A17699F70D4939DDDBD764DECA7"
+    },
+    {
+      "id": 156,
+      "date": "2014-01-07",
+      "date_utc": 1389052800.0,
+      "fname": "scans/scan_2014-01-07.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-07.csv.gz",
+      "fsize": "810 MB",
+      "fhash": "5B02CA9D5E45E50DA5F4A852877585842E835829"
+    },
+    {
+      "id": 157,
+      "date": "2014-01-08",
+      "date_utc": 1389139200.0,
+      "fname": "scans/scan_2014-01-08.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-08.csv.gz",
+      "fsize": "813 MB",
+      "fhash": "AF4C6AB56E2292F57227C097C22EBF402E31E602"
+    },
+    {
+      "id": 158,
+      "date": "2014-01-09",
+      "date_utc": 1389225600.0,
+      "fname": "scans/scan_2014-01-09.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-09.csv.gz",
+      "fsize": "814 MB",
+      "fhash": "730352E8E1E362DA77B4FD4D605C4EB9048B292D"
+    },
+    {
+      "id": 159,
+      "date": "2014-01-10",
+      "date_utc": 1389312000.0,
+      "fname": "scans/scan_2014-01-10.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-10.csv.gz",
+      "fsize": "816 MB",
+      "fhash": "0C9A8D9F3649192B7BFC2720FF32EDAE77F91FBE"
+    },
+    {
+      "id": 160,
+      "date": "2014-01-11",
+      "date_utc": 1389398400.0,
+      "fname": "scans/scan_2014-01-11.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-11.csv.gz",
+      "fsize": "813 MB",
+      "fhash": "6DB9BD2A031A297A0D1961116A21B383534A066F"
+    },
+    {
+      "id": 161,
+      "date": "2014-01-12",
+      "date_utc": 1389484800.0,
+      "fname": "scans/scan_2014-01-12.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-12.csv.gz",
+      "fsize": "814 MB",
+      "fhash": "5DE82D1D0BD4E95FF5E208FCAE758F3102B81EAE"
+    },
+    {
+      "id": 162,
+      "date": "2014-01-13",
+      "date_utc": 1389571200.0,
+      "fname": "scans/scan_2014-01-13.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-13.csv.gz",
+      "fsize": "816 MB",
+      "fhash": "6CAE907E277E4FF9B135B8F5B0D98F95A64385F5"
+    },
+    {
+      "id": 163,
+      "date": "2014-01-14",
+      "date_utc": 1389657600.0,
+      "fname": "scans/scan_2014-01-14.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-14.csv.gz",
+      "fsize": "816 MB",
+      "fhash": "70338785C8A20F67217341EB809F603C585FD17D"
+    },
+    {
+      "id": 164,
+      "date": "2014-01-15",
+      "date_utc": 1389744000.0,
+      "fname": "scans/scan_2014-01-15.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-15.csv.gz",
+      "fsize": "815 MB",
+      "fhash": "07F64ABDFD8FAB68DBABCA368BA46EEA74EF8F8B"
+    },
+    {
+      "id": 165,
+      "date": "2014-01-16",
+      "date_utc": 1389830400.0,
+      "fname": "scans/scan_2014-01-16.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-16.csv.gz",
+      "fsize": "814 MB",
+      "fhash": "86262DEB4049A9DA3154C54115FEEDC95984BF21"
+    },
+    {
+      "id": 166,
+      "date": "2014-01-19",
+      "date_utc": 1390089600.0,
+      "fname": "scans/scan_2014-01-19.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-19.csv.gz",
+      "fsize": "817 MB",
+      "fhash": "AB7AB706F549B66F1F3310ADE639FE6B4B82F362"
+    },
+    {
+      "id": 167,
+      "date": "2014-01-20",
+      "date_utc": 1390176000.0,
+      "fname": "scans/scan_2014-01-20.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-20.csv.gz",
+      "fsize": "812 MB",
+      "fhash": "0C5B62C7853CA14F343D161B6668D5BBDF82790B"
+    },
+    {
+      "id": 168,
+      "date": "2014-01-21",
+      "date_utc": 1390262400.0,
+      "fname": "scans/scan_2014-01-21.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-21.csv.gz",
+      "fsize": "810 MB",
+      "fhash": "046FFB26316703A340ECD1177928CC02BD5199BC"
+    },
+    {
+      "id": 169,
+      "date": "2014-01-28",
+      "date_utc": 1390867200.0,
+      "fname": "scans/scan_2014-01-28.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-28.csv.gz",
+      "fsize": "805 MB",
+      "fhash": "050F168F4850093BF8C2C8581625A63E780A62C1"
+    },
+    {
+      "id": 170,
+      "date": "2014-01-29",
+      "date_utc": 1390953600.0,
+      "fname": "scans/scan_2014-01-29.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/scans/scan_2014-01-29.csv.gz",
+      "fsize": "806 MB",
+      "fhash": "44147DAB55D53A9CC682F2E3C32A1ED4DD27385C"
+    },
+    {
+      "id": 171,
+      "date": "2013-12-28",
+      "date_utc": 1388188800.0,
+      "fname": "chains/chains_432_2013-12-28.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_432_2013-12-28.gz",
+      "fsize": "772 MB",
+      "fhash": "838FA68F9BBB9B6F6F88F1A2BDB5C2956F276AEA"
+    },
+    {
+      "id": 172,
+      "date": "2013-12-29",
+      "date_utc": 1388275200.0,
+      "fname": "chains/chains_433_2013-12-29.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_433_2013-12-29.gz",
+      "fsize": "772 MB",
+      "fhash": "073A95A793A9AF49CBE6264A955C39329CCEE20E"
+    },
+    {
+      "id": 173,
+      "date": "2013-12-30",
+      "date_utc": 1388361600.0,
+      "fname": "chains/chains_434_2013-12-30.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_434_2013-12-30.gz",
+      "fsize": "775 MB",
+      "fhash": "9790E788BA03348D3D2F9D1161133C083289940F"
+    },
+    {
+      "id": 174,
+      "date": "2013-12-31",
+      "date_utc": 1388448000.0,
+      "fname": "chains/chains_435_2013-12-31.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_435_2013-12-31.gz",
+      "fsize": "774 MB",
+      "fhash": "2E1ECF67D05A085BDC06082BF6086172E596EF87"
+    },
+    {
+      "id": 175,
+      "date": "2014-01-01",
+      "date_utc": 1388534400.0,
+      "fname": "chains/chains_436_2014-01-01.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_436_2014-01-01.gz",
+      "fsize": "773 MB",
+      "fhash": "C46AAB7D228A2294994AC9AF7446ACAC7F9CA5CD"
+    },
+    {
+      "id": 176,
+      "date": "2014-01-02",
+      "date_utc": 1388620800.0,
+      "fname": "chains/chains_437_2014-01-02.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_437_2014-01-02.gz",
+      "fsize": "773 MB",
+      "fhash": "2417E5FED406D433DD878CE7ECC6D065FAC2DB20"
+    },
+    {
+      "id": 177,
+      "date": "2014-01-03",
+      "date_utc": 1388707200.0,
+      "fname": "chains/chains_438_2014-01-03.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_438_2014-01-03.gz",
+      "fsize": "773 MB",
+      "fhash": "3CB59B3277295C28438C39AA38C2F5A4E25B41A9"
+    },
+    {
+      "id": 178,
+      "date": "2014-01-05",
+      "date_utc": 1388880000.0,
+      "fname": "chains/chains_440_2014-01-05.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_440_2014-01-05.gz",
+      "fsize": "774 MB",
+      "fhash": "1930444060AF9BB265637E35A124582B9EB37693"
+    },
+    {
+      "id": 179,
+      "date": "2014-01-06",
+      "date_utc": 1388966400.0,
+      "fname": "chains/chains_441_2014-01-06.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_441_2014-01-06.gz",
+      "fsize": "774 MB",
+      "fhash": "ABB0CBE27C547CCB63A08A5E0F2ADFAF611DBED0"
+    },
+    {
+      "id": 180,
+      "date": "2014-01-07",
+      "date_utc": 1389052800.0,
+      "fname": "chains/chains_442_2014-01-07.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_442_2014-01-07.gz",
+      "fsize": "777 MB",
+      "fhash": "DBC64EACC94355F682E92B05D8B12C7305195AF3"
+    },
+    {
+      "id": 181,
+      "date": "2014-01-08",
+      "date_utc": 1389139200.0,
+      "fname": "chains/chains_443_2014-01-08.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_443_2014-01-08.gz",
+      "fsize": "781 MB",
+      "fhash": "AA61D3060A95DB20108B8305C73D6161D5A7388B"
+    },
+    {
+      "id": 182,
+      "date": "2014-01-09",
+      "date_utc": 1389225600.0,
+      "fname": "chains/chains_444_2014-01-09.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_444_2014-01-09.gz",
+      "fsize": "781 MB",
+      "fhash": "517A1895DC30FDE93D868ED8EC10AD7AFCA4355D"
+    },
+    {
+      "id": 183,
+      "date": "2014-01-10",
+      "date_utc": 1389312000.0,
+      "fname": "chains/chains_445_2014-01-10.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_445_2014-01-10.gz",
+      "fsize": "783 MB",
+      "fhash": "4C3932834A89C1C0D57523E6D5A3166AE982ADC9"
+    },
+    {
+      "id": 184,
+      "date": "2014-01-11",
+      "date_utc": 1389398400.0,
+      "fname": "chains/chains_446_2014-01-11.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_446_2014-01-11.gz",
+      "fsize": "781 MB",
+      "fhash": "5098748F1754DD152FDEA185E959108510DEFBF4"
+    },
+    {
+      "id": 185,
+      "date": "2014-01-12",
+      "date_utc": 1389484800.0,
+      "fname": "chains/chains_447_2014-01-12.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_447_2014-01-12.gz",
+      "fsize": "781 MB",
+      "fhash": "93E248D0FDD335DD3A3E13972605041FE7A91655"
+    },
+    {
+      "id": 186,
+      "date": "2014-01-13",
+      "date_utc": 1389571200.0,
+      "fname": "chains/chains_448_2014-01-13.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_448_2014-01-13.gz",
+      "fsize": "783 MB",
+      "fhash": "93C077F12633A49B1EAD9D5625F8EC369B8CBDAC"
+    },
+    {
+      "id": 187,
+      "date": "2014-01-14",
+      "date_utc": 1389657600.0,
+      "fname": "chains/chains_449_2014-01-14.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_449_2014-01-14.gz",
+      "fsize": "783 MB",
+      "fhash": "4B2DE295C47EA784D1CB23B1EF3BC1974BA6DC9A"
+    },
+    {
+      "id": 188,
+      "date": "2014-01-15",
+      "date_utc": 1389744000.0,
+      "fname": "chains/chains_450_2014-01-15.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_450_2014-01-15.gz",
+      "fsize": "782 MB",
+      "fhash": "C5ACE960F63BD3955D73FE75A338919E2165CF63"
+    },
+    {
+      "id": 189,
+      "date": "2014-01-16",
+      "date_utc": 1389830400.0,
+      "fname": "chains/chains_451_2014-01-16.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_451_2014-01-16.gz",
+      "fsize": "782 MB",
+      "fhash": "0235781DE3C80A44F7440D89216ABC78B0A0DC9B"
+    },
+    {
+      "id": 190,
+      "date": "2014-01-17",
+      "date_utc": 1389916800.0,
+      "fname": "chains/chains_454_2014-01-17.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_454_2014-01-17.gz",
+      "fsize": "783 MB",
+      "fhash": "DEFCA42AA960447BB9D9160EA335131D833346C1"
+    },
+    {
+      "id": 191,
+      "date": "2014-01-19",
+      "date_utc": 1390089600.0,
+      "fname": "chains/chains_455_2014-01-19.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_455_2014-01-19.gz",
+      "fsize": "784 MB",
+      "fhash": "00CFD7AB7EB0A451B9387C23BD9118FAB13DD7EC"
+    },
+    {
+      "id": 192,
+      "date": "2014-01-20",
+      "date_utc": 1390176000.0,
+      "fname": "chains/chains_456_2014-01-20.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_456_2014-01-20.gz",
+      "fsize": "779 MB",
+      "fhash": "EE70EB9556E31D18759E8C07219B63E956BA5247"
+    },
+    {
+      "id": 193,
+      "date": "2014-01-21",
+      "date_utc": 1390262400.0,
+      "fname": "chains/chains_457_2014-01-21.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_457_2014-01-21.gz",
+      "fsize": "778 MB",
+      "fhash": "FD6F2B59735478F1D3EB6D52318D183D5E50DCA8"
+    },
+    {
+      "id": 194,
+      "date": "2014-01-28",
+      "date_utc": 1390867200.0,
+      "fname": "chains/chains_469_2014-01-28.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_469_2014-01-28.gz",
+      "fsize": "776 MB",
+      "fhash": "3B6F7BFA95A5172A1E8EE98EF1FA2F39BA24653D"
+    },
+    {
+      "id": 195,
+      "date": "2014-01-29",
+      "date_utc": 1390953600.0,
+      "fname": "chains/chains_470_2014-01-29.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_470_2014-01-29.gz",
+      "fsize": "775 MB",
+      "fhash": "5C4A94AA3614415076E939D0E33479D9CE3FC7A9"
+    },
+    {
+      "id": 196,
+      "date": "2014-01-31",
+      "date_utc": 1391126400.0,
+      "fname": "chains/chains_471_2014-01-31.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_471_2014-01-31.gz",
+      "fsize": "779 MB",
+      "fhash": "42F9F1B1CA153E174413B1A7A4BE6E7AE52A2BA1"
+    },
+    {
+      "id": 197,
+      "date": "2014-02-01",
+      "date_utc": 1391212800.0,
+      "fname": "chains/chains_472_2014-02-01.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_472_2014-02-01.gz",
+      "fsize": "781 MB",
+      "fhash": "1DFA55B6E241455952152D0309F29048E0D9340D"
+    },
+    {
+      "id": 198,
+      "date": "2014-02-02",
+      "date_utc": 1391299200.0,
+      "fname": "chains/chains_473_2014-02-02.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_473_2014-02-02.gz",
+      "fsize": "781 MB",
+      "fhash": "182C0425A9EF95721ECE6409C9E61988FC9D24A8"
+    },
+    {
+      "id": 199,
+      "date": "2014-02-03",
+      "date_utc": 1391385600.0,
+      "fname": "chains/chains_474_2014-02-03.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_474_2014-02-03.gz",
+      "fsize": "782 MB",
+      "fhash": "3658FCEDBF157B5F004DAEFE3E520D319F797118"
+    },
+    {
+      "id": 200,
+      "date": "2014-02-04",
+      "date_utc": 1391472000.0,
+      "fname": "chains/chains_475_2014-02-04.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_475_2014-02-04.gz",
+      "fsize": "783 MB",
+      "fhash": "A6404AC722EA63F3FDE1BBF32C16D50156772895"
+    },
+    {
+      "id": 201,
+      "date": "2014-02-05",
+      "date_utc": 1391558400.0,
+      "fname": "chains/chains_476_2014-02-05.gz",
+      "fhref": "https://scans.io/data/umich/https/chains/chains_476_2014-02-05.gz",
+      "fsize": "784 MB",
+      "fhash": "D13D1CBCA923A5CAFDF976122FE0BD4E6FA05E8E"
+    },
+    {
+      "id": 202,
+      "date": "2014-01-18",
+      "date_utc": 1390003200.0,
+      "fname": "pcap/pcap_2014-01-18.pcap.gz",
+      "fhref": "https://scans.io/data/umich/https/pcap/pcap_2014-01-18.pcap.gz",
+      "fsize": "68 GB",
+      "fhash": "322CE12ACE8918B4424E651E2D04E642CEEADA15"
+    },
+    {
+      "id": 203,
+      "date": "2013-09-15",
+      "date_utc": 1379203200.0,
+      "fname": "incomplete/scan_2013-09-15.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-09-15.csv.gz",
+      "fsize": "692 KB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 204,
+      "date": "2013-09-18",
+      "date_utc": 1379462400.0,
+      "fname": "incomplete/scan_2013-09-18.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-09-18.csv.gz",
+      "fsize": "292 KB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 205,
+      "date": "2013-09-19",
+      "date_utc": 1379548800.0,
+      "fname": "incomplete/scan_2013-09-19.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-09-19.csv.gz",
+      "fsize": "1.4 GB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 206,
+      "date": "2013-10-28",
+      "date_utc": 1382918400.0,
+      "fname": "incomplete/scan_2013-10-28.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-10-28.csv.gz",
+      "fsize": "3.7 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 207,
+      "date": "2013-11-05",
+      "date_utc": 1383609600.0,
+      "fname": "incomplete/scan_2013-11-05.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-05.csv.gz",
+      "fsize": "2.5 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 208,
+      "date": "2013-11-06",
+      "date_utc": 1383696000.0,
+      "fname": "incomplete/scan_2013-11-06.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-06.csv.gz",
+      "fsize": "2.9 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 209,
+      "date": "2013-11-10",
+      "date_utc": 1384041600.0,
+      "fname": "incomplete/scan_2013-11-10.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-10.csv.gz",
+      "fsize": "392 KB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 210,
+      "date": "2013-11-13",
+      "date_utc": 1384300800.0,
+      "fname": "incomplete/scan_2013-11-13.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-13.csv.gz",
+      "fsize": "565 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 211,
+      "date": "2013-11-14",
+      "date_utc": 1384387200.0,
+      "fname": "incomplete/scan_2013-11-14.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-14.csv.gz",
+      "fsize": "569 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 212,
+      "date": "2013-11-15",
+      "date_utc": 1384473600.0,
+      "fname": "incomplete/scan_2013-11-15.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-15.csv.gz",
+      "fsize": "568 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 213,
+      "date": "2013-11-18",
+      "date_utc": 1384732800.0,
+      "fname": "incomplete/scan_2013-11-18.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-18.csv.gz",
+      "fsize": "563 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 214,
+      "date": "2013-11-20",
+      "date_utc": 1384905600.0,
+      "fname": "incomplete/scan_2013-11-20.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-20.csv.gz",
+      "fsize": "529 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 215,
+      "date": "2013-11-21",
+      "date_utc": 1384992000.0,
+      "fname": "incomplete/scan_2013-11-21.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-21.csv.gz",
+      "fsize": "563 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 216,
+      "date": "2013-11-22",
+      "date_utc": 1385078400.0,
+      "fname": "incomplete/scan_2013-11-22.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-22.csv.gz",
+      "fsize": "567 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 217,
+      "date": "2013-11-23",
+      "date_utc": 1385164800.0,
+      "fname": "incomplete/scan_2013-11-23.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-23.csv.gz",
+      "fsize": "568 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 218,
+      "date": "2013-11-24",
+      "date_utc": 1385251200.0,
+      "fname": "incomplete/scan_2013-11-24.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-24.csv.gz",
+      "fsize": "567 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 219,
+      "date": "2013-11-25",
+      "date_utc": 1385337600.0,
+      "fname": "incomplete/scan_2013-11-25.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-25.csv.gz",
+      "fsize": "570 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 220,
+      "date": "2013-11-26",
+      "date_utc": 1385424000.0,
+      "fname": "incomplete/scan_2013-11-26.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-26.csv.gz",
+      "fsize": "570 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 221,
+      "date": "2013-11-27",
+      "date_utc": 1385510400.0,
+      "fname": "incomplete/scan_2013-11-27.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-27.csv.gz",
+      "fsize": "573 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 222,
+      "date": "2013-11-28",
+      "date_utc": 1385596800.0,
+      "fname": "incomplete/scan_2013-11-28.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-28.csv.gz",
+      "fsize": "572 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 223,
+      "date": "2013-11-29",
+      "date_utc": 1385683200.0,
+      "fname": "incomplete/scan_2013-11-29.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-29.csv.gz",
+      "fsize": "568 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 224,
+      "date": "2013-11-30",
+      "date_utc": 1385769600.0,
+      "fname": "incomplete/scan_2013-11-30.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-11-30.csv.gz",
+      "fsize": "448 KB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 225,
+      "date": "2013-12-01",
+      "date_utc": 1385856000.0,
+      "fname": "incomplete/scan_2013-12-01.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-12-01.csv.gz",
+      "fsize": "104 KB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 226,
+      "date": "2013-12-11",
+      "date_utc": 1386720000.0,
+      "fname": "incomplete/scan_2013-12-11.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-12-11.csv.gz",
+      "fsize": "11 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 227,
+      "date": "2013-12-30",
+      "date_utc": 1388361600.0,
+      "fname": "incomplete/scan_2013-12-30.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2013-12-30.csv.gz",
+      "fsize": "9.3 MB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 228,
+      "date": "2014-01-04",
+      "date_utc": 1388793600.0,
+      "fname": "incomplete/scan_2014-01-04.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2014-01-04.csv.gz",
+      "fsize": "116 KB",
+      "fhash": "unavailable"
+    },
+    {
+      "id": 229,
+      "date": "2014-01-17",
+      "date_utc": 1389916800.0,
+      "fname": "incomplete/scan_2014-01-17.csv.gz",
+      "fhref": "https://scans.io/data/umich/https/incomplete/scan_2014-01-17.csv.gz",
+      "fsize": "9.8 MB",
+      "fhash": "unavailable"
+    }
+  ]
+}

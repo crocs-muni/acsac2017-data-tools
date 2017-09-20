@@ -1,0 +1,3519 @@
+{
+  "generated": 1491337655.639047,
+  "data": [
+    {
+      "id": 10,
+      "date": "2013-10-30",
+      "date_utc": 1383091200.0,
+      "files": {
+        "20131030-20150518_certs.gz": {
+          "name": "20131030-20150518_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20131030-20150518_certs.gz",
+          "size": "25276 MB",
+          "hash": "2629AC3433310397543EDD0C2D5F0CC146A42504"
+        },
+        "20131030/20131030_hosts.gz": {
+          "name": "20131030/20131030_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20131030/20131030_hosts.gz",
+          "size": "664 MB",
+          "hash": "A7E47C541500E8CDDC1CCFBE13C959BCAF307C77"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "date": "2013-11-04",
+      "date_utc": 1383523200.0,
+      "files": {
+        "20131104/20131104_hosts.gz": {
+          "name": "20131104/20131104_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20131104/20131104_hosts.gz",
+          "size": "679 MB",
+          "hash": "1169E5B82482F3D27A045650128685E26B73F6C2"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "date": "2013-11-11",
+      "date_utc": 1384128000.0,
+      "files": {
+        "20131111/20131111_hosts.gz": {
+          "name": "20131111/20131111_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20131111/20131111_hosts.gz",
+          "size": "691 MB",
+          "hash": "CF1E538BAC37CEE9AB9A43743222E3ED54ECA586"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "date": "2013-11-18",
+      "date_utc": 1384732800.0,
+      "files": {
+        "20131118/20131118_hosts.gz": {
+          "name": "20131118/20131118_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20131118/20131118_hosts.gz",
+          "size": "693 MB",
+          "hash": "57D32BFC266564BD1EB9D610132C0E6E2F433848"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "date": "2013-11-25",
+      "date_utc": 1385337600.0,
+      "files": {
+        "20131125/20131125_hosts.gz": {
+          "name": "20131125/20131125_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20131125/20131125_hosts.gz",
+          "size": "710 MB",
+          "hash": "1EBE16FAA2081F2AC6F446E5694C8C6CC05D76CC"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "date": "2013-12-02",
+      "date_utc": 1385942400.0,
+      "files": {
+        "20131202/20131202_hosts.gz": {
+          "name": "20131202/20131202_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20131202/20131202_hosts.gz",
+          "size": "675 MB",
+          "hash": "B7247692F86C0E16A765660C5E40DFFEE0CE4477"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "date": "2013-12-09",
+      "date_utc": 1386547200.0,
+      "files": {
+        "20131209/20131209_hosts.gz": {
+          "name": "20131209/20131209_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20131209/20131209_hosts.gz",
+          "size": "690 MB",
+          "hash": "91688DD8C5F8EA7CEF5C27A31BF79DFC29A89A38"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "date": "2013-12-16",
+      "date_utc": 1387152000.0,
+      "files": {
+        "20131216/20131216_hosts.gz": {
+          "name": "20131216/20131216_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20131216/20131216_hosts.gz",
+          "size": "690 MB",
+          "hash": "8FC805F8C5812F1830D3708C6A1A3C49F8D60326"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "date": "2013-12-24",
+      "date_utc": 1387843200.0,
+      "files": {
+        "20131224/20131224_hosts.gz": {
+          "name": "20131224/20131224_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20131224/20131224_hosts.gz",
+          "size": "686 MB",
+          "hash": "368E3981B1F9A8729D615C0E3556218AFC2BE56A"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "date": "2013-12-30",
+      "date_utc": 1388361600.0,
+      "files": {
+        "20131230/20131230_hosts.gz": {
+          "name": "20131230/20131230_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20131230/20131230_hosts.gz",
+          "size": "689 MB",
+          "hash": "876BE987D9F9BAB20D4D5A0FFC5116C46ADFC116"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "date": "2014-01-06",
+      "date_utc": 1388966400.0,
+      "files": {
+        "20140106/20140106_hosts.gz": {
+          "name": "20140106/20140106_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140106/20140106_hosts.gz",
+          "size": "689 MB",
+          "hash": "F3E5C9C0CE1480AEAEE715010A2707CD279AC224"
+        }
+      }
+    },
+    {
+      "id": 21,
+      "date": "2014-01-13",
+      "date_utc": 1389571200.0,
+      "files": {
+        "20140113/20140113_hosts.gz": {
+          "name": "20140113/20140113_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140113/20140113_hosts.gz",
+          "size": "693 MB",
+          "hash": "F1274DBD859F6B18B2FB57D60F9A6E86C1DA1001"
+        }
+      }
+    },
+    {
+      "id": 22,
+      "date": "2014-01-20",
+      "date_utc": 1390176000.0,
+      "files": {
+        "20140120/20140120_hosts.gz": {
+          "name": "20140120/20140120_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140120/20140120_hosts.gz",
+          "size": "693 MB",
+          "hash": "348C7E5B1D1381E5A327485860BBC4192498A655"
+        }
+      }
+    },
+    {
+      "id": 23,
+      "date": "2014-01-29",
+      "date_utc": 1390953600.0,
+      "files": {
+        "20140129/20140129_hosts.gz": {
+          "name": "20140129/20140129_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140129/20140129_hosts.gz",
+          "size": "699 MB",
+          "hash": "1B6010D38E73B088D598ED8DDF9537A70E6FE778"
+        }
+      }
+    },
+    {
+      "id": 24,
+      "date": "2014-02-05",
+      "date_utc": 1391558400.0,
+      "files": {
+        "20140205/20140205_hosts.gz": {
+          "name": "20140205/20140205_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140205/20140205_hosts.gz",
+          "size": "699 MB",
+          "hash": "A48B2D2131D5B02F609CAEF6FF3D04BB481E9FE3"
+        }
+      }
+    },
+    {
+      "id": 25,
+      "date": "2014-02-10",
+      "date_utc": 1391990400.0,
+      "files": {
+        "20140210/20140210_hosts.gz": {
+          "name": "20140210/20140210_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140210/20140210_hosts.gz",
+          "size": "693 MB",
+          "hash": "F40797A41B0A2B51838DCA2A8998B76DA3529656"
+        }
+      }
+    },
+    {
+      "id": 26,
+      "date": "2014-02-17",
+      "date_utc": 1392595200.0,
+      "files": {
+        "20140217/20140217_hosts.gz": {
+          "name": "20140217/20140217_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140217/20140217_hosts.gz",
+          "size": "702 MB",
+          "hash": "DAFDBFECE5D31BD3417A92DB610676FFBEC215BC"
+        }
+      }
+    },
+    {
+      "id": 27,
+      "date": "2014-02-24",
+      "date_utc": 1393200000.0,
+      "files": {
+        "20140224/20140224_hosts.gz": {
+          "name": "20140224/20140224_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140224/20140224_hosts.gz",
+          "size": "706 MB",
+          "hash": "260380373CA9BCA9F1A73F2A5CB1B60282305E34"
+        }
+      }
+    },
+    {
+      "id": 28,
+      "date": "2014-03-03",
+      "date_utc": 1393804800.0,
+      "files": {
+        "20140303/20140303_hosts.gz": {
+          "name": "20140303/20140303_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140303/20140303_hosts.gz",
+          "size": "716 MB",
+          "hash": "00E38A2D9DC2E76DD37B09AAF05F95C7945A2B9F"
+        }
+      }
+    },
+    {
+      "id": 29,
+      "date": "2014-03-10",
+      "date_utc": 1394409600.0,
+      "files": {
+        "20140310/20140310_hosts.gz": {
+          "name": "20140310/20140310_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140310/20140310_hosts.gz",
+          "size": "718 MB",
+          "hash": "3ABC24331418BA093512FC6D85AFFFE44F7272B9"
+        }
+      }
+    },
+    {
+      "id": 30,
+      "date": "2014-03-17",
+      "date_utc": 1395014400.0,
+      "files": {
+        "20140317/20140317_hosts.gz": {
+          "name": "20140317/20140317_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140317/20140317_hosts.gz",
+          "size": "726 MB",
+          "hash": "8E1E45088EE6C6FDAFE723A9BB3385DE0E0D98F3"
+        }
+      }
+    },
+    {
+      "id": 31,
+      "date": "2014-03-24",
+      "date_utc": 1395619200.0,
+      "files": {
+        "20140324/20140324_hosts.gz": {
+          "name": "20140324/20140324_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140324/20140324_hosts.gz",
+          "size": "466 MB",
+          "hash": "A7D3719C7530FCAFCAF96F643DA6CE84E0FF6A3D"
+        }
+      }
+    },
+    {
+      "id": 32,
+      "date": "2014-03-25",
+      "date_utc": 1395705600.0,
+      "files": {
+        "20140325/20140325_hosts.gz": {
+          "name": "20140325/20140325_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140325/20140325_hosts.gz",
+          "size": "727 MB",
+          "hash": "D461378A158E97242D73FFD634D2ADBC0530060C"
+        }
+      }
+    },
+    {
+      "id": 33,
+      "date": "2014-03-31",
+      "date_utc": 1396224000.0,
+      "files": {
+        "20140331/20140331_hosts.gz": {
+          "name": "20140331/20140331_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140331/20140331_hosts.gz",
+          "size": "728 MB",
+          "hash": "E949319ED2269FE3D93A2FA2194E719DB0C62148"
+        }
+      }
+    },
+    {
+      "id": 34,
+      "date": "2014-04-07",
+      "date_utc": 1396828800.0,
+      "files": {
+        "20140407/20140407_hosts.gz": {
+          "name": "20140407/20140407_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140407/20140407_hosts.gz",
+          "size": "730 MB",
+          "hash": "A51D05625DC2AFCD11A9F29E158959D84894BE83"
+        }
+      }
+    },
+    {
+      "id": 35,
+      "date": "2014-04-10",
+      "date_utc": 1397088000.0,
+      "files": {
+        "20140410/20140410_hosts.gz": {
+          "name": "20140410/20140410_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140410/20140410_hosts.gz",
+          "size": "739 MB",
+          "hash": "3BC056CB7FE62D212D564B54EE9AB466D7CE3B49"
+        }
+      }
+    },
+    {
+      "id": 36,
+      "date": "2014-04-14",
+      "date_utc": 1397433600.0,
+      "files": {
+        "20140414/20140414_hosts.gz": {
+          "name": "20140414/20140414_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140414/20140414_hosts.gz",
+          "size": "733 MB",
+          "hash": "0467858A7043BB742E5BCED16A40EB46CEBD4F57"
+        }
+      }
+    },
+    {
+      "id": 37,
+      "date": "2014-04-21",
+      "date_utc": 1398038400.0,
+      "files": {
+        "20140421/20140421_hosts.gz": {
+          "name": "20140421/20140421_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140421/20140421_hosts.gz",
+          "size": "746 MB",
+          "hash": "8EEA260D68245018199493C771805FE49938B418"
+        }
+      }
+    },
+    {
+      "id": 38,
+      "date": "2014-04-28",
+      "date_utc": 1398643200.0,
+      "files": {
+        "20140428/20140428_hosts.gz": {
+          "name": "20140428/20140428_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140428/20140428_hosts.gz",
+          "size": "730 MB",
+          "hash": "CD8C2BA085BB73DD5F86F074DE50B3821E960DF9"
+        }
+      }
+    },
+    {
+      "id": 39,
+      "date": "2014-05-05",
+      "date_utc": 1399248000.0,
+      "files": {
+        "20140505/20140505_hosts.gz": {
+          "name": "20140505/20140505_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140505/20140505_hosts.gz",
+          "size": "729 MB",
+          "hash": "44297147ABF3FE1CA4D56D743F0DD1BFB13E10D5"
+        }
+      }
+    },
+    {
+      "id": 40,
+      "date": "2014-05-12",
+      "date_utc": 1399852800.0,
+      "files": {
+        "20140512/20140512_hosts.gz": {
+          "name": "20140512/20140512_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140512/20140512_hosts.gz",
+          "size": "733 MB",
+          "hash": "3580690144994B5E18A018C3F2FF4D30DE407830"
+        }
+      }
+    },
+    {
+      "id": 41,
+      "date": "2014-05-19",
+      "date_utc": 1400457600.0,
+      "files": {
+        "20140519/20140519_hosts.gz": {
+          "name": "20140519/20140519_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140519/20140519_hosts.gz",
+          "size": "745 MB",
+          "hash": "5198BFDADB14A58791692F065A26C3F87D76BE2E"
+        }
+      }
+    },
+    {
+      "id": 42,
+      "date": "2014-05-26",
+      "date_utc": 1401062400.0,
+      "files": {
+        "20140526/20140526_hosts.gz": {
+          "name": "20140526/20140526_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140526/20140526_hosts.gz",
+          "size": "739 MB",
+          "hash": "65C36304252F8C6ADBC6ABD8648B64B7155288A4"
+        }
+      }
+    },
+    {
+      "id": 43,
+      "date": "2014-06-02",
+      "date_utc": 1401667200.0,
+      "files": {
+        "20140602/20140602_hosts.gz": {
+          "name": "20140602/20140602_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140602/20140602_hosts.gz",
+          "size": "745 MB",
+          "hash": "CE32EDB2C651BDCEFF145B405F1FF3AE8AFEF3CC"
+        }
+      }
+    },
+    {
+      "id": 44,
+      "date": "2014-06-09",
+      "date_utc": 1402272000.0,
+      "files": {
+        "20140609/20140609_hosts.gz": {
+          "name": "20140609/20140609_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140609/20140609_hosts.gz",
+          "size": "756 MB",
+          "hash": "E6BF4FC8ABFAE2253E428695CD96A6A11D885DB0"
+        }
+      }
+    },
+    {
+      "id": 45,
+      "date": "2014-06-16",
+      "date_utc": 1402876800.0,
+      "files": {
+        "20140616/20140616_hosts.gz": {
+          "name": "20140616/20140616_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140616/20140616_hosts.gz",
+          "size": "701 MB",
+          "hash": "FD33A5E18AF5EE7FA1A5D0B0E09A05F406851ECB"
+        }
+      }
+    },
+    {
+      "id": 46,
+      "date": "2014-06-23",
+      "date_utc": 1403481600.0,
+      "files": {
+        "20140623/20140623_hosts.gz": {
+          "name": "20140623/20140623_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140623/20140623_hosts.gz",
+          "size": "771 MB",
+          "hash": "B1584655860A7D1D374697A10E1AE586A27B3831"
+        }
+      }
+    },
+    {
+      "id": 47,
+      "date": "2014-06-30",
+      "date_utc": 1404086400.0,
+      "files": {
+        "20140630/20140630_hosts.gz": {
+          "name": "20140630/20140630_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140630/20140630_hosts.gz",
+          "size": "771 MB",
+          "hash": "90B4B4F4E9520D3E2D96D93590F1135A0B2011F3"
+        }
+      }
+    },
+    {
+      "id": 48,
+      "date": "2014-07-07",
+      "date_utc": 1404691200.0,
+      "files": {
+        "20140707/20140707_hosts.gz": {
+          "name": "20140707/20140707_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140707/20140707_hosts.gz",
+          "size": "760 MB",
+          "hash": "D89F52143FD96EB3A353B97A65985F3E77C6CB81"
+        }
+      }
+    },
+    {
+      "id": 49,
+      "date": "2014-07-14",
+      "date_utc": 1405296000.0,
+      "files": {
+        "20140714/20140714_hosts.gz": {
+          "name": "20140714/20140714_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140714/20140714_hosts.gz",
+          "size": "763 MB",
+          "hash": "B3C4F82E17FE36D22876AF5265BAB525903FFC2B"
+        }
+      }
+    },
+    {
+      "id": 50,
+      "date": "2014-07-21",
+      "date_utc": 1405900800.0,
+      "files": {
+        "20140721/20140721_hosts.gz": {
+          "name": "20140721/20140721_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140721/20140721_hosts.gz",
+          "size": "754 MB",
+          "hash": "21CC5B944605005A4D7C0B49241AAAE6777E3D6E"
+        }
+      }
+    },
+    {
+      "id": 51,
+      "date": "2014-07-28",
+      "date_utc": 1406505600.0,
+      "files": {
+        "20140728/20140728_hosts.gz": {
+          "name": "20140728/20140728_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140728/20140728_hosts.gz",
+          "size": "755 MB",
+          "hash": "700C780A62193E609F9469F153889919E864F972"
+        }
+      }
+    },
+    {
+      "id": 52,
+      "date": "2014-08-04",
+      "date_utc": 1407110400.0,
+      "files": {
+        "20140804/20140804_hosts.gz": {
+          "name": "20140804/20140804_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140804/20140804_hosts.gz",
+          "size": "762 MB",
+          "hash": "FEB68810CBA3CDEB80908D7BC3B4DBB19EE88BB4"
+        }
+      }
+    },
+    {
+      "id": 53,
+      "date": "2014-08-11",
+      "date_utc": 1407715200.0,
+      "files": {
+        "20140811/20140811_hosts.gz": {
+          "name": "20140811/20140811_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140811/20140811_hosts.gz",
+          "size": "766 MB",
+          "hash": "4B8A38551D90A82E3F1C7531B032146188DD24C2"
+        }
+      }
+    },
+    {
+      "id": 54,
+      "date": "2014-08-18",
+      "date_utc": 1408320000.0,
+      "files": {
+        "20140818/20140818_hosts.gz": {
+          "name": "20140818/20140818_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140818/20140818_hosts.gz",
+          "size": "778 MB",
+          "hash": "7B656FB6B69F8B8D4DE955695B371FF761C7E399"
+        }
+      }
+    },
+    {
+      "id": 55,
+      "date": "2014-08-25",
+      "date_utc": 1408924800.0,
+      "files": {
+        "20140825/20140825_hosts.gz": {
+          "name": "20140825/20140825_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140825/20140825_hosts.gz",
+          "size": "786 MB",
+          "hash": "E5B0A8F16646C29BA09840D6F2E21F19E659B77C"
+        }
+      }
+    },
+    {
+      "id": 56,
+      "date": "2014-09-01",
+      "date_utc": 1409529600.0,
+      "files": {
+        "20140901/20140901_hosts.gz": {
+          "name": "20140901/20140901_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140901/20140901_hosts.gz",
+          "size": "794 MB",
+          "hash": "8F1CA932FA5D459D4E5F1F99BA551BD77B74F7A5"
+        }
+      }
+    },
+    {
+      "id": 57,
+      "date": "2014-09-08",
+      "date_utc": 1410134400.0,
+      "files": {
+        "20140908/20140908_hosts.gz": {
+          "name": "20140908/20140908_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140908/20140908_hosts.gz",
+          "size": "809 MB",
+          "hash": "CD9F46D3D92A5545A14D33671B37F52572634D24"
+        }
+      }
+    },
+    {
+      "id": 58,
+      "date": "2014-09-15",
+      "date_utc": 1410739200.0,
+      "files": {
+        "20140915/20140915_hosts.gz": {
+          "name": "20140915/20140915_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140915/20140915_hosts.gz",
+          "size": "806 MB",
+          "hash": "7B7DD1D1A1A79CA572B7880C683590AD5E2C4A0F"
+        }
+      }
+    },
+    {
+      "id": 59,
+      "date": "2014-09-22",
+      "date_utc": 1411344000.0,
+      "files": {
+        "20140922/20140922_hosts.gz": {
+          "name": "20140922/20140922_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140922/20140922_hosts.gz",
+          "size": "819 MB",
+          "hash": "15C922DCC4F954D43A55AE473542BE8329479EA4"
+        }
+      }
+    },
+    {
+      "id": 60,
+      "date": "2014-09-29",
+      "date_utc": 1411948800.0,
+      "files": {
+        "20140929/20140929_hosts.gz": {
+          "name": "20140929/20140929_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20140929/20140929_hosts.gz",
+          "size": "822 MB",
+          "hash": "0F15A71955238A92C2010901307EAFA56C1621C5"
+        }
+      }
+    },
+    {
+      "id": 61,
+      "date": "2014-10-13",
+      "date_utc": 1413158400.0,
+      "files": {
+        "20141013/20141013_hosts.gz": {
+          "name": "20141013/20141013_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20141013/20141013_hosts.gz",
+          "size": "827 MB",
+          "hash": "89663E974F07FF1C1B24EB9BAA70639F6DBDE432"
+        }
+      }
+    },
+    {
+      "id": 62,
+      "date": "2014-10-20",
+      "date_utc": 1413763200.0,
+      "files": {
+        "20141020/20141020_hosts.gz": {
+          "name": "20141020/20141020_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20141020/20141020_hosts.gz",
+          "size": "838 MB",
+          "hash": "61E009718BC3C0A5A6CE94387528561337B23F5D"
+        }
+      }
+    },
+    {
+      "id": 63,
+      "date": "2014-10-27",
+      "date_utc": 1414368000.0,
+      "files": {
+        "20141027/20141027_hosts.gz": {
+          "name": "20141027/20141027_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20141027/20141027_hosts.gz",
+          "size": "845 MB",
+          "hash": "ADC6142B73CC64A67DA5127A5346C359E4377B83"
+        }
+      }
+    },
+    {
+      "id": 64,
+      "date": "2014-11-04",
+      "date_utc": 1415059200.0,
+      "files": {
+        "20141104/20141104_hosts.gz": {
+          "name": "20141104/20141104_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20141104/20141104_hosts.gz",
+          "size": "823 MB",
+          "hash": "5C8C428B884DA516C7A2FA2E03C2828DDE5D6F58"
+        }
+      }
+    },
+    {
+      "id": 65,
+      "date": "2014-11-10",
+      "date_utc": 1415577600.0,
+      "files": {
+        "20141110/20141110_hosts.gz": {
+          "name": "20141110/20141110_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20141110/20141110_hosts.gz",
+          "size": "830 MB",
+          "hash": "B3A5460F015A69334C64C9FA4F8DC54873DDDEB2"
+        }
+      }
+    },
+    {
+      "id": 66,
+      "date": "2014-11-17",
+      "date_utc": 1416182400.0,
+      "files": {
+        "20141117/20141117_hosts.gz": {
+          "name": "20141117/20141117_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20141117/20141117_hosts.gz",
+          "size": "836 MB",
+          "hash": "E3617E6EB6220396D5D0C0864CB741F7622CB0F1"
+        }
+      }
+    },
+    {
+      "id": 67,
+      "date": "2014-11-24",
+      "date_utc": 1416787200.0,
+      "files": {
+        "20141124/20141124_hosts.gz": {
+          "name": "20141124/20141124_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20141124/20141124_hosts.gz",
+          "size": "848 MB",
+          "hash": "888256BFC44F2C2FF0E592D1852C939A3D37FEC4"
+        }
+      }
+    },
+    {
+      "id": 68,
+      "date": "2014-12-01",
+      "date_utc": 1417392000.0,
+      "files": {
+        "20141201/20141201_hosts.gz": {
+          "name": "20141201/20141201_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20141201/20141201_hosts.gz",
+          "size": "855 MB",
+          "hash": "CD63B8CC0497AB2D8EA8FB41F983A53D99AE07D7"
+        }
+      }
+    },
+    {
+      "id": 69,
+      "date": "2014-12-08",
+      "date_utc": 1417996800.0,
+      "files": {
+        "20141208/20141208_hosts.gz": {
+          "name": "20141208/20141208_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20141208/20141208_hosts.gz",
+          "size": "847 MB",
+          "hash": "B98220D502834359F48F818FC64B76DAF3D376CA"
+        }
+      }
+    },
+    {
+      "id": 70,
+      "date": "2014-12-15",
+      "date_utc": 1418601600.0,
+      "files": {
+        "20141215/20141215_hosts.gz": {
+          "name": "20141215/20141215_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20141215/20141215_hosts.gz",
+          "size": "855 MB",
+          "hash": "3181313B20002AEECA62030C1676392EE09EBFDF"
+        }
+      }
+    },
+    {
+      "id": 71,
+      "date": "2014-12-22",
+      "date_utc": 1419206400.0,
+      "files": {
+        "20141222/20141222_hosts.gz": {
+          "name": "20141222/20141222_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20141222/20141222_hosts.gz",
+          "size": "853 MB",
+          "hash": "82A39BE6C9329733B85F91E549968C6DF90C6FBF"
+        }
+      }
+    },
+    {
+      "id": 72,
+      "date": "2014-12-29",
+      "date_utc": 1419811200.0,
+      "files": {
+        "20141229/20141229_hosts.gz": {
+          "name": "20141229/20141229_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20141229/20141229_hosts.gz",
+          "size": "853 MB",
+          "hash": "D513A664E74A7C03971487F2665BC28A1491561F"
+        }
+      }
+    },
+    {
+      "id": 73,
+      "date": "2015-01-05",
+      "date_utc": 1420416000.0,
+      "files": {
+        "20150105/20150105_hosts.gz": {
+          "name": "20150105/20150105_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150105/20150105_hosts.gz",
+          "size": "854 MB",
+          "hash": "07E04149A652237A7F0D3230A75293C7289A3619"
+        }
+      }
+    },
+    {
+      "id": 74,
+      "date": "2015-01-12",
+      "date_utc": 1421020800.0,
+      "files": {
+        "20150112/20150112_hosts.gz": {
+          "name": "20150112/20150112_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150112/20150112_hosts.gz",
+          "size": "858 MB",
+          "hash": "21D98144F44DCAF17657217D0927A7F97051BDFC"
+        }
+      }
+    },
+    {
+      "id": 75,
+      "date": "2015-01-19",
+      "date_utc": 1421625600.0,
+      "files": {
+        "20150119/20150119_hosts.gz": {
+          "name": "20150119/20150119_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150119/20150119_hosts.gz",
+          "size": "860 MB",
+          "hash": "CB5AC5BE6687CB9D24B2F315AB37F333CF7B2568"
+        }
+      }
+    },
+    {
+      "id": 76,
+      "date": "2015-01-26",
+      "date_utc": 1422230400.0,
+      "files": {
+        "20150126/20150126_hosts.gz": {
+          "name": "20150126/20150126_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150126/20150126_hosts.gz",
+          "size": "856 MB",
+          "hash": "222FFC3114D3DB653CDA06BA30CE6B206585328A"
+        }
+      }
+    },
+    {
+      "id": 77,
+      "date": "2015-02-02",
+      "date_utc": 1422835200.0,
+      "files": {
+        "20150202/20150202_hosts.gz": {
+          "name": "20150202/20150202_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150202/20150202_hosts.gz",
+          "size": "862 MB",
+          "hash": "861A576BDE05AAE1C53B3F6869E7382B015E446F"
+        }
+      }
+    },
+    {
+      "id": 78,
+      "date": "2015-02-09",
+      "date_utc": 1423440000.0,
+      "files": {
+        "20150209/20150209_hosts.gz": {
+          "name": "20150209/20150209_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150209/20150209_hosts.gz",
+          "size": "868 MB",
+          "hash": "69E092460ECCD7A8AF7B8F74DDAA2556D4D28733"
+        }
+      }
+    },
+    {
+      "id": 79,
+      "date": "2015-02-16",
+      "date_utc": 1424044800.0,
+      "files": {
+        "20150216/20150216_hosts.gz": {
+          "name": "20150216/20150216_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150216/20150216_hosts.gz",
+          "size": "873 MB",
+          "hash": "01489B4040F38A872AA140BF5F229AFAC6E01FC1"
+        }
+      }
+    },
+    {
+      "id": 80,
+      "date": "2015-02-23",
+      "date_utc": 1424649600.0,
+      "files": {
+        "20150223/20150223_hosts.gz": {
+          "name": "20150223/20150223_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150223/20150223_hosts.gz",
+          "size": "873 MB",
+          "hash": "D45A826F105CB274BA1A4E83997676821346855B"
+        }
+      }
+    },
+    {
+      "id": 81,
+      "date": "2015-03-02",
+      "date_utc": 1425254400.0,
+      "files": {
+        "20150302/20150302_hosts.gz": {
+          "name": "20150302/20150302_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150302/20150302_hosts.gz",
+          "size": "873 MB",
+          "hash": "D09FC3DE25B94028ED86B2075715944E268FD531"
+        }
+      }
+    },
+    {
+      "id": 82,
+      "date": "2015-03-09",
+      "date_utc": 1425859200.0,
+      "files": {
+        "20150309/20150309_hosts.gz": {
+          "name": "20150309/20150309_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150309/20150309_hosts.gz",
+          "size": "880 MB",
+          "hash": "43345026A78FBAF8FA027AA612D4C8ACEDBBB24F"
+        }
+      }
+    },
+    {
+      "id": 83,
+      "date": "2015-03-16",
+      "date_utc": 1426464000.0,
+      "files": {
+        "20150316/20150316_hosts.gz": {
+          "name": "20150316/20150316_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150316/20150316_hosts.gz",
+          "size": "891 MB",
+          "hash": "0284458B5D305A9F8AB9FA0AB9E7D4C31065C087"
+        }
+      }
+    },
+    {
+      "id": 84,
+      "date": "2015-03-23",
+      "date_utc": 1427068800.0,
+      "files": {
+        "20150323/20150323_hosts.gz": {
+          "name": "20150323/20150323_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150323/20150323_hosts.gz",
+          "size": "893 MB",
+          "hash": "08F175A18AAF58BE49CFCF249D623A3B28A531E7"
+        }
+      }
+    },
+    {
+      "id": 85,
+      "date": "2015-03-30",
+      "date_utc": 1427673600.0,
+      "files": {
+        "20150330/20150330_hosts.gz": {
+          "name": "20150330/20150330_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150330/20150330_hosts.gz",
+          "size": "888 MB",
+          "hash": "414186D08CED69A04C4EF8020B2931F5AE52FC13"
+        }
+      }
+    },
+    {
+      "id": 86,
+      "date": "2015-04-06",
+      "date_utc": 1428278400.0,
+      "files": {
+        "20150406/20150406_hosts.gz": {
+          "name": "20150406/20150406_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150406/20150406_hosts.gz",
+          "size": "868 MB",
+          "hash": "7360BD69A1CA29E8A4A21C71F7941931DBBD6B3F"
+        }
+      }
+    },
+    {
+      "id": 87,
+      "date": "2015-04-13",
+      "date_utc": 1428883200.0,
+      "files": {
+        "20150413/20150413_hosts.gz": {
+          "name": "20150413/20150413_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150413/20150413_hosts.gz",
+          "size": "867 MB",
+          "hash": "0C0683DD6F5C8C08CD484A4CE14A7E5983CDE7D6"
+        }
+      }
+    },
+    {
+      "id": 88,
+      "date": "2015-04-20",
+      "date_utc": 1429488000.0,
+      "files": {
+        "20150420/20150420_hosts.gz": {
+          "name": "20150420/20150420_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150420/20150420_hosts.gz",
+          "size": "883 MB",
+          "hash": "F29048B61D769A88702E15380F6A14035FA02DFA"
+        }
+      }
+    },
+    {
+      "id": 89,
+      "date": "2015-04-27",
+      "date_utc": 1430092800.0,
+      "files": {
+        "20150427/20150427_hosts.gz": {
+          "name": "20150427/20150427_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150427/20150427_hosts.gz",
+          "size": "894 MB",
+          "hash": "E8EBC92D32F258F70816164E2EBA7FA3C1102FAB"
+        }
+      }
+    },
+    {
+      "id": 90,
+      "date": "2015-05-04",
+      "date_utc": 1430697600.0,
+      "files": {
+        "20150504/20150504_hosts.gz": {
+          "name": "20150504/20150504_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150504/20150504_hosts.gz",
+          "size": "885 MB",
+          "hash": "1FE3B7E0462BFEAD5970AD133CF5249DC239B9B9"
+        }
+      }
+    },
+    {
+      "id": 91,
+      "date": "2015-05-11",
+      "date_utc": 1431302400.0,
+      "files": {
+        "20150511/20150511_hosts.gz": {
+          "name": "20150511/20150511_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150511/20150511_hosts.gz",
+          "size": "866 MB",
+          "hash": "CD8D8DCF6912A827005FCC2E09D59D3D8AE78006"
+        }
+      }
+    },
+    {
+      "id": 92,
+      "date": "2015-05-18",
+      "date_utc": 1431907200.0,
+      "files": {
+        "20150518/20150518_hosts.gz": {
+          "name": "20150518/20150518_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150518/20150518_hosts.gz",
+          "size": "851 MB",
+          "hash": "B6BE4B1C4E2886879BC2E3970D9FEFC453885822"
+        }
+      }
+    },
+    {
+      "id": 93,
+      "date": "2015-06-01",
+      "date_utc": 1433116800.0,
+      "files": {
+        "20150601/20150601_certs.gz": {
+          "name": "20150601/20150601_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150601/20150601_certs.gz",
+          "size": "2441 MB",
+          "hash": "BB3979687DB190508AFAFDEC77C7600D49C5D8B0"
+        },
+        "20150601/20150601_hosts.gz": {
+          "name": "20150601/20150601_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150601/20150601_hosts.gz",
+          "size": "1016 MB",
+          "hash": "9F2A6A53473F7D172093054A83180D2A383DC00F"
+        },
+        "20150601/20150601_names.gz": {
+          "name": "20150601/20150601_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150601/20150601_names.gz",
+          "size": "106 MB",
+          "hash": "E49E84F45D627D8B3DAA2888043E0C169435DD3B"
+        }
+      }
+    },
+    {
+      "id": 94,
+      "date": "2015-06-08",
+      "date_utc": 1433721600.0,
+      "files": {
+        "20150608/20150608_certs.gz": {
+          "name": "20150608/20150608_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150608/20150608_certs.gz",
+          "size": "352 MB",
+          "hash": "78C4066F69E6362CC2D774CEF0B0958B6A36F76B"
+        },
+        "20150608/20150608_hosts.gz": {
+          "name": "20150608/20150608_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150608/20150608_hosts.gz",
+          "size": "1040 MB",
+          "hash": "FDDE5BF77D8D3CEBC85A47239B5CEF8D8F826EDE"
+        },
+        "20150608/20150608_names.gz": {
+          "name": "20150608/20150608_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150608/20150608_names.gz",
+          "size": "17 MB",
+          "hash": "B8D6341FA5F3A01132500FEB54E3AFD45BECDD03"
+        }
+      }
+    },
+    {
+      "id": 95,
+      "date": "2015-06-15",
+      "date_utc": 1434326400.0,
+      "files": {
+        "20150615/20150615_certs.gz": {
+          "name": "20150615/20150615_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150615/20150615_certs.gz",
+          "size": "318 MB",
+          "hash": "C42CB38471D34E52BCC629DA4B6FB3B640C37E03"
+        },
+        "20150615/20150615_hosts.gz": {
+          "name": "20150615/20150615_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150615/20150615_hosts.gz",
+          "size": "1041 MB",
+          "hash": "C52AFF031771532F9DE363E18BCD03B87D516C25"
+        },
+        "20150615/20150615_names.gz": {
+          "name": "20150615/20150615_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150615/20150615_names.gz",
+          "size": "16 MB",
+          "hash": "D54F1A92ED27B92879C401DBC5F558F8F2FAB696"
+        }
+      }
+    },
+    {
+      "id": 96,
+      "date": "2015-06-22",
+      "date_utc": 1434931200.0,
+      "files": {
+        "20150622/20150622_certs.gz": {
+          "name": "20150622/20150622_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150622/20150622_certs.gz",
+          "size": "304 MB",
+          "hash": "FBCA3D248C74269083EFD9EB967813779D975565"
+        },
+        "20150622/20150622_hosts.gz": {
+          "name": "20150622/20150622_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150622/20150622_hosts.gz",
+          "size": "1044 MB",
+          "hash": "8464A89D84F62595A0847F03126666134C5F7BC0"
+        },
+        "20150622/20150622_names.gz": {
+          "name": "20150622/20150622_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150622/20150622_names.gz",
+          "size": "15 MB",
+          "hash": "0CD508090991451AE007192B17F35CBC6EA3F568"
+        }
+      }
+    },
+    {
+      "id": 97,
+      "date": "2015-06-29",
+      "date_utc": 1435536000.0,
+      "files": {
+        "20150629/20150629_certs.gz": {
+          "name": "20150629/20150629_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150629/20150629_certs.gz",
+          "size": "298 MB",
+          "hash": "638D85355E0B34DEF97B96930CFC691B9B8E98F8"
+        },
+        "20150629/20150629_hosts.gz": {
+          "name": "20150629/20150629_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150629/20150629_hosts.gz",
+          "size": "1040 MB",
+          "hash": "BEB7630AA179E6DC99282FEF0875B7ACFDEF2887"
+        },
+        "20150629/20150629_names.gz": {
+          "name": "20150629/20150629_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150629/20150629_names.gz",
+          "size": "15 MB",
+          "hash": "4FA2A4F5CD4491CD0295911399C8E2F832753454"
+        }
+      }
+    },
+    {
+      "id": 98,
+      "date": "2015-07-06",
+      "date_utc": 1436140800.0,
+      "files": {
+        "20150706/20150706_certs.gz": {
+          "name": "20150706/20150706_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150706/20150706_certs.gz",
+          "size": "289 MB",
+          "hash": "39AD5BAAAE53C7325AC6A2A17AF37EC50A6FB7DD"
+        },
+        "20150706/20150706_hosts.gz": {
+          "name": "20150706/20150706_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150706/20150706_hosts.gz",
+          "size": "1039 MB",
+          "hash": "D23C720DAB4849A6D5C94F70B6C05448A3C315C6"
+        },
+        "20150706/20150706_names.gz": {
+          "name": "20150706/20150706_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150706/20150706_names.gz",
+          "size": "15 MB",
+          "hash": "950E7759957DA0C5CCA6C1C53ED6B34531FB5ED7"
+        }
+      }
+    },
+    {
+      "id": 99,
+      "date": "2015-07-13",
+      "date_utc": 1436745600.0,
+      "files": {
+        "20150713/20150713_certs.gz": {
+          "name": "20150713/20150713_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150713/20150713_certs.gz",
+          "size": "293 MB",
+          "hash": "6B17A5D8F49F7B6DC211601F22066D3F1802351F"
+        },
+        "20150713/20150713_hosts.gz": {
+          "name": "20150713/20150713_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150713/20150713_hosts.gz",
+          "size": "1050 MB",
+          "hash": "2713571AF405C798DB85A58D4BE8922BFD296BF4"
+        },
+        "20150713/20150713_names.gz": {
+          "name": "20150713/20150713_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150713/20150713_names.gz",
+          "size": "15 MB",
+          "hash": "F2E9A961E5FE652653F400AACDF8F4DE4E18E606"
+        }
+      }
+    },
+    {
+      "id": 100,
+      "date": "2015-07-20",
+      "date_utc": 1437350400.0,
+      "files": {
+        "20150720/20150720_certs.gz": {
+          "name": "20150720/20150720_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150720/20150720_certs.gz",
+          "size": "288 MB",
+          "hash": "0543B66CC467C0D5F66E4561580444D286AF3F42"
+        },
+        "20150720/20150720_hosts.gz": {
+          "name": "20150720/20150720_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150720/20150720_hosts.gz",
+          "size": "1053 MB",
+          "hash": "59F1C4080AFB42EA0A19EA572C2DE66FCD409326"
+        },
+        "20150720/20150720_names.gz": {
+          "name": "20150720/20150720_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150720/20150720_names.gz",
+          "size": "15 MB",
+          "hash": "81BEF999D933DD4774DFE95511363F40C0C4B6AC"
+        }
+      }
+    },
+    {
+      "id": 101,
+      "date": "2015-07-27",
+      "date_utc": 1437955200.0,
+      "files": {
+        "20150727/20150727_certs.gz": {
+          "name": "20150727/20150727_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150727/20150727_certs.gz",
+          "size": "289 MB",
+          "hash": "9A1DBBD50B6D9E0B82C094B415AC821347F6D760"
+        },
+        "20150727/20150727_hosts.gz": {
+          "name": "20150727/20150727_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150727/20150727_hosts.gz",
+          "size": "1061 MB",
+          "hash": "54F26584C8AB296A92BD139424A0DF011E10B978"
+        },
+        "20150727/20150727_names.gz": {
+          "name": "20150727/20150727_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150727/20150727_names.gz",
+          "size": "15 MB",
+          "hash": "631DDFE3C89D01BE55339857C1E1C3BD6EF590C0"
+        }
+      }
+    },
+    {
+      "id": 102,
+      "date": "2015-08-03",
+      "date_utc": 1438560000.0,
+      "files": {
+        "20150803/20150803_certs.gz": {
+          "name": "20150803/20150803_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150803/20150803_certs.gz",
+          "size": "288 MB",
+          "hash": "106809039B12A695C0328817ADE4CE4E15CFA0A8"
+        },
+        "20150803/20150803_hosts.gz": {
+          "name": "20150803/20150803_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150803/20150803_hosts.gz",
+          "size": "1052 MB",
+          "hash": "33DF7E5DC66052E0AC3D4C805FA7943CDE16A86F"
+        },
+        "20150803/20150803_names.gz": {
+          "name": "20150803/20150803_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150803/20150803_names.gz",
+          "size": "15 MB",
+          "hash": "080AA36F33A9EB1BD5AD122D635070525839B363"
+        }
+      }
+    },
+    {
+      "id": 103,
+      "date": "2015-08-10",
+      "date_utc": 1439164800.0,
+      "files": {
+        "20150810/20150810_certs.gz": {
+          "name": "20150810/20150810_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150810/20150810_certs.gz",
+          "size": "285 MB",
+          "hash": "439A7F84DD6FCD56DCFC874A7700C5257E11E577"
+        },
+        "20150810/20150810_hosts.gz": {
+          "name": "20150810/20150810_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150810/20150810_hosts.gz",
+          "size": "1055 MB",
+          "hash": "414ACB77A1F0F29F597A64856B621C21E01E178E"
+        },
+        "20150810/20150810_names.gz": {
+          "name": "20150810/20150810_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150810/20150810_names.gz",
+          "size": "14 MB",
+          "hash": "1B6889C7DC1366DAB0B2226659F2CCBFCACE183A"
+        }
+      }
+    },
+    {
+      "id": 104,
+      "date": "2015-08-17",
+      "date_utc": 1439769600.0,
+      "files": {
+        "20150817/20150817_certs.gz": {
+          "name": "20150817/20150817_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150817/20150817_certs.gz",
+          "size": "287 MB",
+          "hash": "7108ECF3BD508E24ED3A909A79F1E7E9BD2ECCF5"
+        },
+        "20150817/20150817_hosts.gz": {
+          "name": "20150817/20150817_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150817/20150817_hosts.gz",
+          "size": "1054 MB",
+          "hash": "FE8C6592015D8419FF521822076488F772AB69FE"
+        },
+        "20150817/20150817_names.gz": {
+          "name": "20150817/20150817_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150817/20150817_names.gz",
+          "size": "15 MB",
+          "hash": "746F2BC0C3AD2BAB6610A58291646D710BED7694"
+        }
+      }
+    },
+    {
+      "id": 105,
+      "date": "2015-08-24",
+      "date_utc": 1440374400.0,
+      "files": {
+        "20150824/20150824_certs.gz": {
+          "name": "20150824/20150824_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150824/20150824_certs.gz",
+          "size": "292 MB",
+          "hash": "574FDA775326D6BE20D0A1EE71D36F32B364D7D5"
+        },
+        "20150824/20150824_hosts.gz": {
+          "name": "20150824/20150824_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150824/20150824_hosts.gz",
+          "size": "1061 MB",
+          "hash": "F412504F11CC32D74B8634256D8AA584DE36812E"
+        },
+        "20150824/20150824_names.gz": {
+          "name": "20150824/20150824_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150824/20150824_names.gz",
+          "size": "15 MB",
+          "hash": "E34887872D109845CDF054A48DAAD8356F0606A5"
+        }
+      }
+    },
+    {
+      "id": 106,
+      "date": "2015-08-31",
+      "date_utc": 1440979200.0,
+      "files": {
+        "20150831/20150831_certs.gz": {
+          "name": "20150831/20150831_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150831/20150831_certs.gz",
+          "size": "140 MB",
+          "hash": "B1855224E36716DC0BE6416AED8F5B3E57ABC02E"
+        },
+        "20150831/20150831_hosts.gz": {
+          "name": "20150831/20150831_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150831/20150831_hosts.gz",
+          "size": "1070 MB",
+          "hash": "3A4FAE38328DBA22121696348B47C5CD9C54F959"
+        },
+        "20150831/20150831_names.gz": {
+          "name": "20150831/20150831_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150831/20150831_names.gz",
+          "size": "7 MB",
+          "hash": "945746AD6478F26C568CB89E24A6732AF0E8905C"
+        }
+      }
+    },
+    {
+      "id": 107,
+      "date": "2015-09-07",
+      "date_utc": 1441584000.0,
+      "files": {
+        "20150907/20150907_certs.gz": {
+          "name": "20150907/20150907_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150907/20150907_certs.gz",
+          "size": "583 MB",
+          "hash": "485662270721660FA53789802A5ADDE1E7584B1B"
+        },
+        "20150907/20150907_hosts.gz": {
+          "name": "20150907/20150907_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150907/20150907_hosts.gz",
+          "size": "1099 MB",
+          "hash": "04A76EF4FC15388A609A24467067E282DCE5A9FA"
+        },
+        "20150907/20150907_names.gz": {
+          "name": "20150907/20150907_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150907/20150907_names.gz",
+          "size": "28 MB",
+          "hash": "F312D915204D8E5E741F4239C8E554F016996B12"
+        }
+      }
+    },
+    {
+      "id": 108,
+      "date": "2015-09-14",
+      "date_utc": 1442188800.0,
+      "files": {
+        "20150914/20150914_certs.gz": {
+          "name": "20150914/20150914_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150914/20150914_certs.gz",
+          "size": "147 MB",
+          "hash": "2AF431B20E76F56D49941882FFA0292DDB6CFD54"
+        },
+        "20150914/20150914_hosts.gz": {
+          "name": "20150914/20150914_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150914/20150914_hosts.gz",
+          "size": "1073 MB",
+          "hash": "BBBB19F6202410F1B6DDFD8E5D1C7EC4FA4FE741"
+        },
+        "20150914/20150914_names.gz": {
+          "name": "20150914/20150914_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150914/20150914_names.gz",
+          "size": "8 MB",
+          "hash": "977A9111B5694349DEE1523D5605CEC2627E8A2E"
+        }
+      }
+    },
+    {
+      "id": 109,
+      "date": "2015-09-21",
+      "date_utc": 1442793600.0,
+      "files": {
+        "20150921/20150921_certs.gz": {
+          "name": "20150921/20150921_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150921/20150921_certs.gz",
+          "size": "299 MB",
+          "hash": "0C2DED7FC66F839BAC8605CEF86792B76B364019"
+        },
+        "20150921/20150921_hosts.gz": {
+          "name": "20150921/20150921_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150921/20150921_hosts.gz",
+          "size": "1057 MB",
+          "hash": "9B9B04DF64AB60E004203DB9C5FAB395869E06B6"
+        },
+        "20150921/20150921_names.gz": {
+          "name": "20150921/20150921_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150921/20150921_names.gz",
+          "size": "15 MB",
+          "hash": "B931ECE2F28ADB49AEBD34B02D7C1F878E2F42B6"
+        }
+      }
+    },
+    {
+      "id": 110,
+      "date": "2015-09-28",
+      "date_utc": 1443398400.0,
+      "files": {
+        "20150928/20150928_certs.gz": {
+          "name": "20150928/20150928_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150928/20150928_certs.gz",
+          "size": "460 MB",
+          "hash": "50BB21DB5C1E2FE0AF1D4F40B8B3E144D513A529"
+        },
+        "20150928/20150928_hosts.gz": {
+          "name": "20150928/20150928_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150928/20150928_hosts.gz",
+          "size": "1079 MB",
+          "hash": "1E08EFCD6D66737205102109A1984522B000AC73"
+        },
+        "20150928/20150928_names.gz": {
+          "name": "20150928/20150928_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20150928/20150928_names.gz",
+          "size": "25 MB",
+          "hash": "F63B0DF4C84BF3CB1036E0EA6532999F2F38A6AE"
+        }
+      }
+    },
+    {
+      "id": 111,
+      "date": "2015-10-05",
+      "date_utc": 1444003200.0,
+      "files": {
+        "20151005/20151005_certs.gz": {
+          "name": "20151005/20151005_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151005/20151005_certs.gz",
+          "size": "417 MB",
+          "hash": "42B92B08D412C07ADECA3EE5DAE0F7FD783DEA71"
+        },
+        "20151005/20151005_hosts.gz": {
+          "name": "20151005/20151005_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151005/20151005_hosts.gz",
+          "size": "1098 MB",
+          "hash": "6E51A50AFE1DE2085EAEC54920BFD30970C7A9DA"
+        },
+        "20151005/20151005_names.gz": {
+          "name": "20151005/20151005_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151005/20151005_names.gz",
+          "size": "21 MB",
+          "hash": "CE6FAC4ABE31CD6FE58EE26CA7A13669D0C93725"
+        }
+      }
+    },
+    {
+      "id": 112,
+      "date": "2015-10-12",
+      "date_utc": 1444608000.0,
+      "files": {
+        "20151012/20151012_certs.gz": {
+          "name": "20151012/20151012_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151012/20151012_certs.gz",
+          "size": "330 MB",
+          "hash": "001007ED1E9D30607A94D7072BD8F0FA78682B8B"
+        },
+        "20151012/20151012_hosts.gz": {
+          "name": "20151012/20151012_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151012/20151012_hosts.gz",
+          "size": "1075 MB",
+          "hash": "EBDF21021345378DF89C45790F68870F3A0060C2"
+        },
+        "20151012/20151012_names.gz": {
+          "name": "20151012/20151012_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151012/20151012_names.gz",
+          "size": "16 MB",
+          "hash": "09BAB978E4570FA442C1563C9A7A4F9E8D432811"
+        }
+      }
+    },
+    {
+      "id": 113,
+      "date": "2015-10-19",
+      "date_utc": 1445212800.0,
+      "files": {
+        "20151019/20151019_certs.gz": {
+          "name": "20151019/20151019_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151019/20151019_certs.gz",
+          "size": "331 MB",
+          "hash": "8577CA79EB3BE051FE78B5D58217F95235996FEF"
+        },
+        "20151019/20151019_hosts.gz": {
+          "name": "20151019/20151019_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151019/20151019_hosts.gz",
+          "size": "1079 MB",
+          "hash": "AE064B4526A936374D8EA07C773D9A38159D8413"
+        },
+        "20151019/20151019_names.gz": {
+          "name": "20151019/20151019_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151019/20151019_names.gz",
+          "size": "16 MB",
+          "hash": "47F5D18B5EBE425BF32C1E0BD88FB4865B52C023"
+        }
+      }
+    },
+    {
+      "id": 114,
+      "date": "2015-10-26",
+      "date_utc": 1445817600.0,
+      "files": {
+        "20151026/20151026_certs.gz": {
+          "name": "20151026/20151026_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151026/20151026_certs.gz",
+          "size": "341 MB",
+          "hash": "43568AFC8382D4F7F9D3DC28DB8D069341F0D34E"
+        },
+        "20151026/20151026_hosts.gz": {
+          "name": "20151026/20151026_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151026/20151026_hosts.gz",
+          "size": "1083 MB",
+          "hash": "1B7A1E0C53DA4AC3378F930D214C2EAB1551D2F8"
+        },
+        "20151026/20151026_names.gz": {
+          "name": "20151026/20151026_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151026/20151026_names.gz",
+          "size": "17 MB",
+          "hash": "A33195AFE298AA619067518E9EDD5C7F86B4BCF9"
+        }
+      }
+    },
+    {
+      "id": 115,
+      "date": "2015-11-02",
+      "date_utc": 1446422400.0,
+      "files": {
+        "20151102/20151102_certs.gz": {
+          "name": "20151102/20151102_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151102/20151102_certs.gz",
+          "size": "332 MB",
+          "hash": "80B09ED35BA3566E4924BEAC071239F7162ED045"
+        },
+        "20151102/20151102_hosts.gz": {
+          "name": "20151102/20151102_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151102/20151102_hosts.gz",
+          "size": "1098 MB",
+          "hash": "6E552076BA1845395C66A0242403EAC2A7F2C0C9"
+        },
+        "20151102/20151102_names.gz": {
+          "name": "20151102/20151102_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151102/20151102_names.gz",
+          "size": "16 MB",
+          "hash": "2B12F9311DC7FE7A4F5D07574FC92223EEF86033"
+        }
+      }
+    },
+    {
+      "id": 116,
+      "date": "2015-11-09",
+      "date_utc": 1447027200.0,
+      "files": {
+        "20151109/20151109_certs.gz": {
+          "name": "20151109/20151109_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151109/20151109_certs.gz",
+          "size": "322 MB",
+          "hash": "E64ECD30A3709CE063493832F8B88F61A3F4182F"
+        },
+        "20151109/20151109_hosts.gz": {
+          "name": "20151109/20151109_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151109/20151109_hosts.gz",
+          "size": "1091 MB",
+          "hash": "7BE1339772FC80F4804FA8FEC6B7B664409508B1"
+        },
+        "20151109/20151109_names.gz": {
+          "name": "20151109/20151109_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151109/20151109_names.gz",
+          "size": "16 MB",
+          "hash": "12ABB981A2645B64B524E2D49DA24D05BC47B64C"
+        }
+      }
+    },
+    {
+      "id": 117,
+      "date": "2015-11-16",
+      "date_utc": 1447632000.0,
+      "files": {
+        "20151116/20151116_certs.gz": {
+          "name": "20151116/20151116_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151116/20151116_certs.gz",
+          "size": "321 MB",
+          "hash": "694FBD062FDFE14CD802CBAA34ADB0FE813762C0"
+        },
+        "20151116/20151116_hosts.gz": {
+          "name": "20151116/20151116_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151116/20151116_hosts.gz",
+          "size": "1090 MB",
+          "hash": "B44EFF24F5B39D9C2D97ABDA5E6C3C9CB9982E0C"
+        },
+        "20151116/20151116_names.gz": {
+          "name": "20151116/20151116_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151116/20151116_names.gz",
+          "size": "16 MB",
+          "hash": "7B1D13912362EF5F248EA7BE7050D3C2B186DFD6"
+        }
+      }
+    },
+    {
+      "id": 118,
+      "date": "2015-11-23",
+      "date_utc": 1448236800.0,
+      "files": {
+        "20151123/20151123_certs.gz": {
+          "name": "20151123/20151123_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151123/20151123_certs.gz",
+          "size": "324 MB",
+          "hash": "017216452C37DBBD7170435D070D34385E95EA8B"
+        },
+        "20151123/20151123_hosts.gz": {
+          "name": "20151123/20151123_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151123/20151123_hosts.gz",
+          "size": "1094 MB",
+          "hash": "F0BCE93262CE684DCB637D51A65C2E1057C8A940"
+        },
+        "20151123/20151123_names.gz": {
+          "name": "20151123/20151123_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151123/20151123_names.gz",
+          "size": "16 MB",
+          "hash": "7E099AFEF780D0C27300A25001100EC33884E996"
+        }
+      }
+    },
+    {
+      "id": 119,
+      "date": "2015-11-30",
+      "date_utc": 1448841600.0,
+      "files": {
+        "20151130/20151130_certs.gz": {
+          "name": "20151130/20151130_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151130/20151130_certs.gz",
+          "size": "312 MB",
+          "hash": "DCDFCE7A84B2D73397F0C50CA20E9224B4EF9764"
+        },
+        "20151130/20151130_hosts.gz": {
+          "name": "20151130/20151130_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151130/20151130_hosts.gz",
+          "size": "1098 MB",
+          "hash": "F269B58049BB5AF435BAF4EBF9A531C1314303D1"
+        },
+        "20151130/20151130_names.gz": {
+          "name": "20151130/20151130_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151130/20151130_names.gz",
+          "size": "15 MB",
+          "hash": "D5E85FBFBAA2D9C1171D7BD4A083B0C685E0E7B8"
+        }
+      }
+    },
+    {
+      "id": 120,
+      "date": "2015-12-07",
+      "date_utc": 1449446400.0,
+      "files": {
+        "20151207/20151207_certs.gz": {
+          "name": "20151207/20151207_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151207/20151207_certs.gz",
+          "size": "332 MB",
+          "hash": "28BCA73317218D8CC9F64B9C2CA402AA53070DFA"
+        },
+        "20151207/20151207_hosts.gz": {
+          "name": "20151207/20151207_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151207/20151207_hosts.gz",
+          "size": "1096 MB",
+          "hash": "781632D33AFCF0D91342E92F654AE4E71CF0267F"
+        },
+        "20151207/20151207_names.gz": {
+          "name": "20151207/20151207_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151207/20151207_names.gz",
+          "size": "16 MB",
+          "hash": "9A8B64DB7CADCD2E0ED8A5E2CCB112E036E57126"
+        }
+      }
+    },
+    {
+      "id": 121,
+      "date": "2015-12-14",
+      "date_utc": 1450051200.0,
+      "files": {
+        "20151214/20151214_certs.gz": {
+          "name": "20151214/20151214_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151214/20151214_certs.gz",
+          "size": "297 MB",
+          "hash": "4CF2DBB322BDF5F46673EBB3F090D381B328749F"
+        },
+        "20151214/20151214_hosts.gz": {
+          "name": "20151214/20151214_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151214/20151214_hosts.gz",
+          "size": "982 MB",
+          "hash": "26ED0F1C7028B32E645593FBF9384E917486394E"
+        },
+        "20151214/20151214_names.gz": {
+          "name": "20151214/20151214_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151214/20151214_names.gz",
+          "size": "14 MB",
+          "hash": "7EE4BB1DB6653486538789496A26157404085D01"
+        }
+      }
+    },
+    {
+      "id": 122,
+      "date": "2015-12-21",
+      "date_utc": 1450656000.0,
+      "files": {
+        "20151221/20151221_certs.gz": {
+          "name": "20151221/20151221_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151221/20151221_certs.gz",
+          "size": "293 MB",
+          "hash": "77A8320852777A6A691DB2B0D09AA9F160851C4E"
+        },
+        "20151221/20151221_hosts.gz": {
+          "name": "20151221/20151221_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151221/20151221_hosts.gz",
+          "size": "980 MB",
+          "hash": "1907E409D384D59967D44F6D0B88B8A274CEE5A7"
+        },
+        "20151221/20151221_names.gz": {
+          "name": "20151221/20151221_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151221/20151221_names.gz",
+          "size": "14 MB",
+          "hash": "8F202C97700394739DA47A3C457F63607B15E661"
+        }
+      }
+    },
+    {
+      "id": 123,
+      "date": "2015-12-28",
+      "date_utc": 1451260800.0,
+      "files": {
+        "20151228/20151228_certs.gz": {
+          "name": "20151228/20151228_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151228/20151228_certs.gz",
+          "size": "259 MB",
+          "hash": "E626405DE07A77EB1D5D501AD411C95B40A9D90E"
+        },
+        "20151228/20151228_hosts.gz": {
+          "name": "20151228/20151228_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151228/20151228_hosts.gz",
+          "size": "979 MB",
+          "hash": "60FC6DC2FA5F108BFDA234FD26FCF114B77DD3AC"
+        },
+        "20151228/20151228_names.gz": {
+          "name": "20151228/20151228_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20151228/20151228_names.gz",
+          "size": "13 MB",
+          "hash": "5B705A5C029FC4171A2BBE69317B9C69165DEB68"
+        }
+      }
+    },
+    {
+      "id": 124,
+      "date": "2016-01-04",
+      "date_utc": 1451865600.0,
+      "files": {
+        "20160104/20160104_certs.gz": {
+          "name": "20160104/20160104_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160104/20160104_certs.gz",
+          "size": "276 MB",
+          "hash": "F2B93A456B8948C2010F93CB29F9CB94FD8EBE97"
+        },
+        "20160104/20160104_hosts.gz": {
+          "name": "20160104/20160104_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160104/20160104_hosts.gz",
+          "size": "974 MB",
+          "hash": "AAEF2B5E5918A022CE79A84701C01CB73EADA6F3"
+        },
+        "20160104/20160104_names.gz": {
+          "name": "20160104/20160104_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160104/20160104_names.gz",
+          "size": "13 MB",
+          "hash": "B1CC99A648E494B6E2849478B2216FBC6D8E4BEB"
+        }
+      }
+    },
+    {
+      "id": 125,
+      "date": "2016-01-11",
+      "date_utc": 1452470400.0,
+      "files": {
+        "20160111/20160111_certs.gz": {
+          "name": "20160111/20160111_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160111/20160111_certs.gz",
+          "size": "401 MB",
+          "hash": "9C3BDC8C81C9408ED97CDB3EE9223EA182753720"
+        },
+        "20160111/20160111_hosts.gz": {
+          "name": "20160111/20160111_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160111/20160111_hosts.gz",
+          "size": "1117 MB",
+          "hash": "A3B51E99E8AB4F8EA71A8526DBC800B01D75D2F8"
+        },
+        "20160111/20160111_names.gz": {
+          "name": "20160111/20160111_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160111/20160111_names.gz",
+          "size": "19 MB",
+          "hash": "7C737BEC0F446DF93830775AF0A3980E2B2B2398"
+        }
+      }
+    },
+    {
+      "id": 126,
+      "date": "2016-01-18",
+      "date_utc": 1453075200.0,
+      "files": {
+        "20160118/20160118_certs.gz": {
+          "name": "20160118/20160118_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160118/20160118_certs.gz",
+          "size": "337 MB",
+          "hash": "642F5B62BEA7F2070187F887A01048F67353898B"
+        },
+        "20160118/20160118_hosts.gz": {
+          "name": "20160118/20160118_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160118/20160118_hosts.gz",
+          "size": "1129 MB",
+          "hash": "E5E8B10626DF29CACB9E7F7437D2C624E7028AEC"
+        },
+        "20160118/20160118_names.gz": {
+          "name": "20160118/20160118_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160118/20160118_names.gz",
+          "size": "17 MB",
+          "hash": "6C7C80CB433B7614F4522A7CEDCAD76806F74331"
+        }
+      }
+    },
+    {
+      "id": 127,
+      "date": "2016-01-25",
+      "date_utc": 1453680000.0,
+      "files": {
+        "20160125/20160125_certs.gz": {
+          "name": "20160125/20160125_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160125/20160125_certs.gz",
+          "size": "335 MB",
+          "hash": "18CA1E2D2EE917E15117B07135B3876319B97DBC"
+        },
+        "20160125/20160125_hosts.gz": {
+          "name": "20160125/20160125_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160125/20160125_hosts.gz",
+          "size": "1127 MB",
+          "hash": "2C7571E883711937ECBBCC6F1C7FBE7994230F6A"
+        },
+        "20160125/20160125_names.gz": {
+          "name": "20160125/20160125_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160125/20160125_names.gz",
+          "size": "16 MB",
+          "hash": "F937748185ED9B5E9B0230190E891691DFA8724D"
+        }
+      }
+    },
+    {
+      "id": 128,
+      "date": "2016-02-01",
+      "date_utc": 1454284800.0,
+      "files": {
+        "20160201/20160201_certs.gz": {
+          "name": "20160201/20160201_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160201/20160201_certs.gz",
+          "size": "337 MB",
+          "hash": "3224A61D9DE61610218845AE23C12F9DBD07562B"
+        },
+        "20160201/20160201_hosts.gz": {
+          "name": "20160201/20160201_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160201/20160201_hosts.gz",
+          "size": "1135 MB",
+          "hash": "73EA6505C578BC01B7489BA5C575C1DBDC5123FF"
+        },
+        "20160201/20160201_names.gz": {
+          "name": "20160201/20160201_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160201/20160201_names.gz",
+          "size": "16 MB",
+          "hash": "568F7A93A4D194686EAF26857AC46C80E841BDF7"
+        }
+      }
+    },
+    {
+      "id": 129,
+      "date": "2016-02-15",
+      "date_utc": 1455494400.0,
+      "files": {
+        "20160215/20160215_certs.gz": {
+          "name": "20160215/20160215_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160215/20160215_certs.gz",
+          "size": "501 MB",
+          "hash": "286752D2C37C10274D1ED48A5C62854F1A1A9215"
+        },
+        "20160215/20160215_hosts.gz": {
+          "name": "20160215/20160215_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160215/20160215_hosts.gz",
+          "size": "1152 MB",
+          "hash": "E268A5C6470BC9961DCCAE0929F10018342E4B26"
+        },
+        "20160215/20160215_names.gz": {
+          "name": "20160215/20160215_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160215/20160215_names.gz",
+          "size": "24 MB",
+          "hash": "652CC350C0B4124F6CBC264C4A8611D7D118431D"
+        }
+      }
+    },
+    {
+      "id": 130,
+      "date": "2016-02-22",
+      "date_utc": 1456099200.0,
+      "files": {
+        "20160222/20160222_certs.gz": {
+          "name": "20160222/20160222_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160222/20160222_certs.gz",
+          "size": "346 MB",
+          "hash": "519B4E64AF412525AA0A501D5EC225D7E5E08D73"
+        },
+        "20160222/20160222_hosts.gz": {
+          "name": "20160222/20160222_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160222/20160222_hosts.gz",
+          "size": "1148 MB",
+          "hash": "96D66C228A4E87B0C9E339E140D66C3DB37D0996"
+        },
+        "20160222/20160222_names.gz": {
+          "name": "20160222/20160222_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160222/20160222_names.gz",
+          "size": "17 MB",
+          "hash": "9B0A74937B79D999048378B830080FC2E9BD315B"
+        }
+      }
+    },
+    {
+      "id": 131,
+      "date": "2016-02-29",
+      "date_utc": 1456704000.0,
+      "files": {
+        "20160229/20160229_certs.gz": {
+          "name": "20160229/20160229_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160229/20160229_certs.gz",
+          "size": "343 MB",
+          "hash": "0415E52014D0F125622890CA29A5574756879B77"
+        },
+        "20160229/20160229_hosts.gz": {
+          "name": "20160229/20160229_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160229/20160229_hosts.gz",
+          "size": "1157 MB",
+          "hash": "08F472DE7DF11408E6CC53E332528BA27A748461"
+        },
+        "20160229/20160229_names.gz": {
+          "name": "20160229/20160229_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160229/20160229_names.gz",
+          "size": "16 MB",
+          "hash": "02B4C91A705410BB291D39E9E8F5DA9552AFCC62"
+        }
+      }
+    },
+    {
+      "id": 132,
+      "date": "2016-03-07",
+      "date_utc": 1457308800.0,
+      "files": {
+        "20160307/20160307_certs.gz": {
+          "name": "20160307/20160307_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160307/20160307_certs.gz",
+          "size": "351 MB",
+          "hash": "AD0290825FE356A41A1263E25C33D4A7CB362243"
+        },
+        "20160307/20160307_hosts.gz": {
+          "name": "20160307/20160307_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160307/20160307_hosts.gz",
+          "size": "1155 MB",
+          "hash": "E3E9868CBBA3565466A1698131CC2BC94F1B8409"
+        },
+        "20160307/20160307_names.gz": {
+          "name": "20160307/20160307_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160307/20160307_names.gz",
+          "size": "17 MB",
+          "hash": "494FA6EACEECAE9C792433201C015640071AF5CE"
+        }
+      }
+    },
+    {
+      "id": 133,
+      "date": "2016-03-14",
+      "date_utc": 1457913600.0,
+      "files": {
+        "20160314/20160314_certs.gz": {
+          "name": "20160314/20160314_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160314/20160314_certs.gz",
+          "size": "350 MB",
+          "hash": "3E3015B650FBAF117FF48B045B19EA4BBF4F0738"
+        },
+        "20160314/20160314_hosts.gz": {
+          "name": "20160314/20160314_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160314/20160314_hosts.gz",
+          "size": "1158 MB",
+          "hash": "46320102EF7D0A869EF440368BFBCB7DEC9A666A"
+        },
+        "20160314/20160314_names.gz": {
+          "name": "20160314/20160314_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160314/20160314_names.gz",
+          "size": "17 MB",
+          "hash": "09B67EBC864A011EA284D0385E1F2DDB04035B54"
+        }
+      }
+    },
+    {
+      "id": 134,
+      "date": "2016-03-21",
+      "date_utc": 1458518400.0,
+      "files": {
+        "20160321/20160321_certs.gz": {
+          "name": "20160321/20160321_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160321/20160321_certs.gz",
+          "size": "343 MB",
+          "hash": "1E4FB6C8D37DEFFF388F8331C6295898EB8A1DCA"
+        },
+        "20160321/20160321_hosts.gz": {
+          "name": "20160321/20160321_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160321/20160321_hosts.gz",
+          "size": "1164 MB",
+          "hash": "0D46A02F2037A745F8CA1306C7CBBF1351810F63"
+        },
+        "20160321/20160321_names.gz": {
+          "name": "20160321/20160321_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160321/20160321_names.gz",
+          "size": "16 MB",
+          "hash": "36D94D3493C5A3DC52FAEB1E85F3B7097D1C495A"
+        }
+      }
+    },
+    {
+      "id": 135,
+      "date": "2016-03-28",
+      "date_utc": 1459123200.0,
+      "files": {
+        "20160328/20160328_certs.gz": {
+          "name": "20160328/20160328_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160328/20160328_certs.gz",
+          "size": "355 MB",
+          "hash": "CD5FEAA4D3C9C9DACD6AF97B2CC94A013E8569D7"
+        },
+        "20160328/20160328_hosts.gz": {
+          "name": "20160328/20160328_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160328/20160328_hosts.gz",
+          "size": "1172 MB",
+          "hash": "41D656C4B447CFEDBA6AD792A1629C73291088F9"
+        },
+        "20160328/20160328_names.gz": {
+          "name": "20160328/20160328_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160328/20160328_names.gz",
+          "size": "17 MB",
+          "hash": "B1B8C8C650070ABDE98BF461A5EEB62522CDF22D"
+        }
+      }
+    },
+    {
+      "id": 136,
+      "date": "2016-04-04",
+      "date_utc": 1459728000.0,
+      "files": {
+        "20160404/20160404_certs.gz": {
+          "name": "20160404/20160404_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160404/20160404_certs.gz",
+          "size": "358 MB",
+          "hash": "A2D6E50E45228333897A3D6494C612FD43C17CD1"
+        },
+        "20160404/20160404_hosts.gz": {
+          "name": "20160404/20160404_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160404/20160404_hosts.gz",
+          "size": "1191 MB",
+          "hash": "B22063DD45C4446EE403971BEDC8EC2A64D2CB8C"
+        },
+        "20160404/20160404_names.gz": {
+          "name": "20160404/20160404_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160404/20160404_names.gz",
+          "size": "17 MB",
+          "hash": "FCA2DC17BECB2A57EDB8F911ACA71F6837A2D7C7"
+        }
+      }
+    },
+    {
+      "id": 137,
+      "date": "2016-04-11",
+      "date_utc": 1460332800.0,
+      "files": {
+        "20160411/20160411_certs.gz": {
+          "name": "20160411/20160411_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160411/20160411_certs.gz",
+          "size": "354 MB",
+          "hash": "906BEA5FE98A37EBFC511FD9BBE6ABD53631A2ED"
+        },
+        "20160411/20160411_hosts.gz": {
+          "name": "20160411/20160411_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160411/20160411_hosts.gz",
+          "size": "1167 MB",
+          "hash": "3CC5CCA1232080BDC190A37EFFB5E40F2CED6772"
+        },
+        "20160411/20160411_names.gz": {
+          "name": "20160411/20160411_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160411/20160411_names.gz",
+          "size": "17 MB",
+          "hash": "87313C5C3FC8F1C5DEC2059D66D6F5BE68A13ABB"
+        }
+      }
+    },
+    {
+      "id": 138,
+      "date": "2016-04-18",
+      "date_utc": 1460937600.0,
+      "files": {
+        "20160418/20160418_certs.gz": {
+          "name": "20160418/20160418_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160418/20160418_certs.gz",
+          "size": "355 MB",
+          "hash": "E70E142884324AC42962A4AC78087014930F3E72"
+        },
+        "20160418/20160418_hosts.gz": {
+          "name": "20160418/20160418_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160418/20160418_hosts.gz",
+          "size": "1168 MB",
+          "hash": "F898FA71E83FC925F62AFAA583433CB7F19BAEE2"
+        },
+        "20160418/20160418_names.gz": {
+          "name": "20160418/20160418_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160418/20160418_names.gz",
+          "size": "17 MB",
+          "hash": "8997AE2E55C498B5C5903276FAC33F9B264AA079"
+        }
+      }
+    },
+    {
+      "id": 139,
+      "date": "2016-05-02",
+      "date_utc": 1462147200.0,
+      "files": {
+        "20160502/20160502_certs.gz": {
+          "name": "20160502/20160502_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160502/20160502_certs.gz",
+          "size": "567 MB",
+          "hash": "8ACA436CB28DD16D7ECB13A2971AFA2B417BF84D"
+        },
+        "20160502/20160502_hosts.gz": {
+          "name": "20160502/20160502_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160502/20160502_hosts.gz",
+          "size": "1162 MB",
+          "hash": "845EB5B93FABB507D3726059052977798E9FD5F5"
+        },
+        "20160502/20160502_names.gz": {
+          "name": "20160502/20160502_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160502/20160502_names.gz",
+          "size": "26 MB",
+          "hash": "67291E3E02F332E809D1BCEA28F72BDC349A5B7F"
+        }
+      }
+    },
+    {
+      "id": 140,
+      "date": "2016-05-09",
+      "date_utc": 1462752000.0,
+      "files": {
+        "20160509/20160509_certs.gz": {
+          "name": "20160509/20160509_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160509/20160509_certs.gz",
+          "size": "373 MB",
+          "hash": "5BA3ADB1A242A5738A4AD4ED3DB918EFE2AB8D93"
+        },
+        "20160509/20160509_hosts.gz": {
+          "name": "20160509/20160509_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160509/20160509_hosts.gz",
+          "size": "1163 MB",
+          "hash": "EBE2E614737F643B112E43EDC472B4F3B91B25E0"
+        },
+        "20160509/20160509_names.gz": {
+          "name": "20160509/20160509_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160509/20160509_names.gz",
+          "size": "17 MB",
+          "hash": "CBCA22966EFE12FA3300A183D4F986C2878248A9"
+        }
+      }
+    },
+    {
+      "id": 141,
+      "date": "2016-05-16",
+      "date_utc": 1463356800.0,
+      "files": {
+        "20160516/20160516_certs.gz": {
+          "name": "20160516/20160516_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160516/20160516_certs.gz",
+          "size": "391 MB",
+          "hash": "2BAFCDAFE30D9BE71650752F8C11251A77E98AB0"
+        },
+        "20160516/20160516_hosts.gz": {
+          "name": "20160516/20160516_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160516/20160516_hosts.gz",
+          "size": "1184 MB",
+          "hash": "B4EB1CC85AADBAD8CDDD85A937EB0289E269E8EC"
+        },
+        "20160516/20160516_names.gz": {
+          "name": "20160516/20160516_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160516/20160516_names.gz",
+          "size": "18 MB",
+          "hash": "D0960C87F4FCF8668E9733CE79CB2683408D951E"
+        }
+      }
+    },
+    {
+      "id": 142,
+      "date": "2016-05-23",
+      "date_utc": 1463961600.0,
+      "files": {
+        "20160523/20160523_certs.gz": {
+          "name": "20160523/20160523_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160523/20160523_certs.gz",
+          "size": "404 MB",
+          "hash": "9334A0105F52C43A829486581D76B227E7A681B2"
+        },
+        "20160523/20160523_hosts.gz": {
+          "name": "20160523/20160523_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160523/20160523_hosts.gz",
+          "size": "1197 MB",
+          "hash": "174D8FF71CE406D22B7D2CA43780B12BBD16D70D"
+        },
+        "20160523/20160523_names.gz": {
+          "name": "20160523/20160523_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160523/20160523_names.gz",
+          "size": "20 MB",
+          "hash": "92704C8C5C97B41EDDB88A0B1E31611646D0B9B7"
+        }
+      }
+    },
+    {
+      "id": 143,
+      "date": "2016-05-30",
+      "date_utc": 1464566400.0,
+      "files": {
+        "20160530/20160530_certs.gz": {
+          "name": "20160530/20160530_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160530/20160530_certs.gz",
+          "size": "377 MB",
+          "hash": "07465372F9F7089BAE533C85A0576CF5CFEE0B05"
+        },
+        "20160530/20160530_hosts.gz": {
+          "name": "20160530/20160530_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160530/20160530_hosts.gz",
+          "size": "1180 MB",
+          "hash": "DE9F6C2A484A15494039646FFDEE793AF7895245"
+        },
+        "20160530/20160530_names.gz": {
+          "name": "20160530/20160530_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160530/20160530_names.gz",
+          "size": "18 MB",
+          "hash": "36989DD25F7BACD10ABA1315CECCC8CC5EF20583"
+        }
+      }
+    },
+    {
+      "id": 144,
+      "date": "2016-06-06",
+      "date_utc": 1465171200.0,
+      "files": {
+        "20160606/20160606_certs.gz": {
+          "name": "20160606/20160606_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160606/20160606_certs.gz",
+          "size": "372 MB",
+          "hash": "CD356AF741ABEDE1E220C77734158F5D08CFEFAD"
+        },
+        "20160606/20160606_hosts.gz": {
+          "name": "20160606/20160606_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160606/20160606_hosts.gz",
+          "size": "1177 MB",
+          "hash": "E38A0315FA678C0531673D2B2FDE55388DDCE182"
+        },
+        "20160606/20160606_names.gz": {
+          "name": "20160606/20160606_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160606/20160606_names.gz",
+          "size": "18 MB",
+          "hash": "3F7FAA15A93F94C53D6B334F7C8BAFAA46F162A1"
+        }
+      }
+    },
+    {
+      "id": 145,
+      "date": "2016-06-13",
+      "date_utc": 1465776000.0,
+      "files": {
+        "20160613/20160613_certs.gz": {
+          "name": "20160613/20160613_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160613/20160613_certs.gz",
+          "size": "373 MB",
+          "hash": "9DD9852BD4861A6C60697053B22903381CFD6617"
+        },
+        "20160613/20160613_hosts.gz": {
+          "name": "20160613/20160613_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160613/20160613_hosts.gz",
+          "size": "1178 MB",
+          "hash": "49A6A56D55F0F653E3A897BAC41E954D46583C33"
+        },
+        "20160613/20160613_names.gz": {
+          "name": "20160613/20160613_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160613/20160613_names.gz",
+          "size": "18 MB",
+          "hash": "B54A39F4C6BD4335B5F0C11D2EA391EEF7356ACE"
+        }
+      }
+    },
+    {
+      "id": 146,
+      "date": "2016-06-20",
+      "date_utc": 1466380800.0,
+      "files": {
+        "20160620/20160620_certs.gz": {
+          "name": "20160620/20160620_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160620/20160620_certs.gz",
+          "size": "399 MB",
+          "hash": "7ACEB201C486BED2B9C12A8823101FBF0098E011"
+        },
+        "20160620/20160620_hosts.gz": {
+          "name": "20160620/20160620_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160620/20160620_hosts.gz",
+          "size": "1179 MB",
+          "hash": "F377450EC35C56D76C6FA9FBA2202E89D438389A"
+        },
+        "20160620/20160620_names.gz": {
+          "name": "20160620/20160620_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160620/20160620_names.gz",
+          "size": "19 MB",
+          "hash": "EA1DB3FACE6872CDFE0C8BA3905C1B88294D6462"
+        }
+      }
+    },
+    {
+      "id": 147,
+      "date": "2016-06-27",
+      "date_utc": 1466985600.0,
+      "files": {
+        "20160627/20160627_certs.gz": {
+          "name": "20160627/20160627_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160627/20160627_certs.gz",
+          "size": "331 MB",
+          "hash": "0DBD2FA9F3BF73FE050995656DFEB6831D7E2131"
+        },
+        "20160627/20160627_hosts.gz": {
+          "name": "20160627/20160627_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160627/20160627_hosts.gz",
+          "size": "1168 MB",
+          "hash": "2378FBD9091B77F383B0D57E7EE51304D1D2EEC3"
+        },
+        "20160627/20160627_names.gz": {
+          "name": "20160627/20160627_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160627/20160627_names.gz",
+          "size": "16 MB",
+          "hash": "C85198E0D259D47575C33E8575623A3A8435BB72"
+        }
+      }
+    },
+    {
+      "id": 148,
+      "date": "2016-07-04",
+      "date_utc": 1467590400.0,
+      "files": {
+        "20160704/20160704_certs.gz": {
+          "name": "20160704/20160704_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160704/20160704_certs.gz",
+          "size": "362 MB",
+          "hash": "3D3CCB0852A003FBBCC1C7F09235CB918180C585"
+        },
+        "20160704/20160704_hosts.gz": {
+          "name": "20160704/20160704_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160704/20160704_hosts.gz",
+          "size": "1147 MB",
+          "hash": "1D8FDFCF9F59441ED68260AC09A8C38D8886B6B6"
+        },
+        "20160704/20160704_names.gz": {
+          "name": "20160704/20160704_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160704/20160704_names.gz",
+          "size": "17 MB",
+          "hash": "A9117CA29DD881BDCA3EB597C84BBD057B09E02E"
+        }
+      }
+    },
+    {
+      "id": 149,
+      "date": "2016-07-11",
+      "date_utc": 1468195200.0,
+      "files": {
+        "20160711/20160711_certs.gz": {
+          "name": "20160711/20160711_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160711/20160711_certs.gz",
+          "size": "352 MB",
+          "hash": "A530D63E8A8D57295F156A923F094C263C57CEA6"
+        },
+        "20160711/20160711_hosts.gz": {
+          "name": "20160711/20160711_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160711/20160711_hosts.gz",
+          "size": "1156 MB",
+          "hash": "D3C141FA72052FA4E20FCB375DDE3548673A595D"
+        },
+        "20160711/20160711_names.gz": {
+          "name": "20160711/20160711_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160711/20160711_names.gz",
+          "size": "16 MB",
+          "hash": "38213B21B119DDFBA6B6B8D185E3DA44B6C4BA22"
+        }
+      }
+    },
+    {
+      "id": 150,
+      "date": "2016-07-18",
+      "date_utc": 1468800000.0,
+      "files": {
+        "20160718/20160718_certs.gz": {
+          "name": "20160718/20160718_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160718/20160718_certs.gz",
+          "size": "366 MB",
+          "hash": "227C741A7717FAD7F0FAE7C63D05A3465A369F0D"
+        },
+        "20160718/20160718_hosts.gz": {
+          "name": "20160718/20160718_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160718/20160718_hosts.gz",
+          "size": "1166 MB",
+          "hash": "26E16855691A0DF403B2FCAFA816BBF868144C9B"
+        },
+        "20160718/20160718_names.gz": {
+          "name": "20160718/20160718_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160718/20160718_names.gz",
+          "size": "17 MB",
+          "hash": "1B1A4E9DEEE8295BC7ACFA50603703EEB7B1EB2F"
+        }
+      }
+    },
+    {
+      "id": 151,
+      "date": "2016-07-25",
+      "date_utc": 1469404800.0,
+      "files": {
+        "20160725/20160725_certs.gz": {
+          "name": "20160725/20160725_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160725/20160725_certs.gz",
+          "size": "411 MB",
+          "hash": "B5F10085D3E629D1764D187CEF7E882E35F86BAB"
+        },
+        "20160725/20160725_hosts.gz": {
+          "name": "20160725/20160725_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160725/20160725_hosts.gz",
+          "size": "1183 MB",
+          "hash": "E0CA0CAE3AC622E3446F2666C1FB7D76EEF28790"
+        },
+        "20160725/20160725_names.gz": {
+          "name": "20160725/20160725_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160725/20160725_names.gz",
+          "size": "20 MB",
+          "hash": "1B95F250332DC1B7141F49FB7113F949559FC5CC"
+        }
+      }
+    },
+    {
+      "id": 152,
+      "date": "2016-08-01",
+      "date_utc": 1470009600.0,
+      "files": {
+        "20160801/20160801_certs.gz": {
+          "name": "20160801/20160801_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160801/20160801_certs.gz",
+          "size": "429 MB",
+          "hash": "D5E396BB5E2A70841BD4B5A990A1334176998F7D"
+        },
+        "20160801/20160801_hosts.gz": {
+          "name": "20160801/20160801_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160801/20160801_hosts.gz",
+          "size": "1191 MB",
+          "hash": "080DC61AA1453C14283753333314CA3BB20D3865"
+        },
+        "20160801/20160801_names.gz": {
+          "name": "20160801/20160801_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160801/20160801_names.gz",
+          "size": "22 MB",
+          "hash": "80E35199A0D39141DADD103A2DD0EE2A1D356205"
+        }
+      }
+    },
+    {
+      "id": 153,
+      "date": "2016-08-08",
+      "date_utc": 1470614400.0,
+      "files": {
+        "20160808/20160808_certs.gz": {
+          "name": "20160808/20160808_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160808/20160808_certs.gz",
+          "size": "395 MB",
+          "hash": "B65F29BE6CCE8E9C11CB303B83BC1A583216DBCC"
+        },
+        "20160808/20160808_hosts.gz": {
+          "name": "20160808/20160808_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160808/20160808_hosts.gz",
+          "size": "1193 MB",
+          "hash": "F51EC504287D94B7ED47B36E3ECF43E9067160D6"
+        },
+        "20160808/20160808_names.gz": {
+          "name": "20160808/20160808_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160808/20160808_names.gz",
+          "size": "19 MB",
+          "hash": "B1971EE87D8BFAA83A57CF687887616A02F3723D"
+        }
+      }
+    },
+    {
+      "id": 154,
+      "date": "2016-08-15",
+      "date_utc": 1471219200.0,
+      "files": {
+        "20160815/20160815_certs.gz": {
+          "name": "20160815/20160815_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160815/20160815_certs.gz",
+          "size": "395 MB",
+          "hash": "D3519CF7B45277AB9CFC54E5B7AC303CE0520505"
+        },
+        "20160815/20160815_hosts.gz": {
+          "name": "20160815/20160815_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160815/20160815_hosts.gz",
+          "size": "1194 MB",
+          "hash": "F31AFDC1AD98724698E3F948C917B97BB8BBBD6B"
+        },
+        "20160815/20160815_names.gz": {
+          "name": "20160815/20160815_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160815/20160815_names.gz",
+          "size": "19 MB",
+          "hash": "2F7B9F92396F57EC6F04A200A4EC0BF745CB028F"
+        }
+      }
+    },
+    {
+      "id": 155,
+      "date": "2016-08-22",
+      "date_utc": 1471824000.0,
+      "files": {
+        "20160822/20160822_certs.gz": {
+          "name": "20160822/20160822_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160822/20160822_certs.gz",
+          "size": "366 MB",
+          "hash": "682D8AB28EF48CB2BC2E3DCE8CFDF244D448799F"
+        },
+        "20160822/20160822_hosts.gz": {
+          "name": "20160822/20160822_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160822/20160822_hosts.gz",
+          "size": "1190 MB",
+          "hash": "84481746BC8BE85798E977A1FDA7069E9490FE1D"
+        },
+        "20160822/20160822_names.gz": {
+          "name": "20160822/20160822_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160822/20160822_names.gz",
+          "size": "17 MB",
+          "hash": "DA5D893DE71F8A450A8C4DE4DACF870098BC64A6"
+        }
+      }
+    },
+    {
+      "id": 156,
+      "date": "2016-08-29",
+      "date_utc": 1472428800.0,
+      "files": {
+        "20160829/20160829_certs.gz": {
+          "name": "20160829/20160829_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160829/20160829_certs.gz",
+          "size": "370 MB",
+          "hash": "FB7D058ADF9A2292BF5462BC7F40250BED60FE98"
+        },
+        "20160829/20160829_hosts.gz": {
+          "name": "20160829/20160829_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160829/20160829_hosts.gz",
+          "size": "1181 MB",
+          "hash": "15D1954166F1AA2A3E61E449E13DEAF9E525437B"
+        },
+        "20160829/20160829_names.gz": {
+          "name": "20160829/20160829_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160829/20160829_names.gz",
+          "size": "17 MB",
+          "hash": "9068E0EEEAC6D30E0EBF3274DE0EB216DADBE409"
+        }
+      }
+    },
+    {
+      "id": 157,
+      "date": "2016-09-05",
+      "date_utc": 1473033600.0,
+      "files": {
+        "20160905/20160905_certs.gz": {
+          "name": "20160905/20160905_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160905/20160905_certs.gz",
+          "size": "440 MB",
+          "hash": "F1D3FD288F0195DA0998419CCB92DE62002BC361"
+        },
+        "20160905/20160905_hosts.gz": {
+          "name": "20160905/20160905_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160905/20160905_hosts.gz",
+          "size": "1194 MB",
+          "hash": "2E691BB2DD0D768464326D26E55DC9C699B9FDDF"
+        },
+        "20160905/20160905_names.gz": {
+          "name": "20160905/20160905_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160905/20160905_names.gz",
+          "size": "20 MB",
+          "hash": "3FE5DA43EF1D309460AD9F3B2EA7488EFD4B8897"
+        }
+      }
+    },
+    {
+      "id": 158,
+      "date": "2016-09-12",
+      "date_utc": 1473638400.0,
+      "files": {
+        "20160912/20160912_certs.gz": {
+          "name": "20160912/20160912_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160912/20160912_certs.gz",
+          "size": "455 MB",
+          "hash": "371CC700569861656E0D9BF2898ED513898191B2"
+        },
+        "20160912/20160912_hosts.gz": {
+          "name": "20160912/20160912_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160912/20160912_hosts.gz",
+          "size": "1186 MB",
+          "hash": "8464520E51C6745A75784E6ADFEE32C689E69245"
+        },
+        "20160912/20160912_names.gz": {
+          "name": "20160912/20160912_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160912/20160912_names.gz",
+          "size": "21 MB",
+          "hash": "D4C544C7B34C3129AAEF6926E6F02D2105ACD620"
+        }
+      }
+    },
+    {
+      "id": 159,
+      "date": "2016-09-19",
+      "date_utc": 1474243200.0,
+      "files": {
+        "20160919/20160919_certs.gz": {
+          "name": "20160919/20160919_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160919/20160919_certs.gz",
+          "size": "247 MB",
+          "hash": "AE27CEA4C1370004BB94141AB9C1EA98AE6B2463"
+        },
+        "20160919/20160919_hosts.gz": {
+          "name": "20160919/20160919_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160919/20160919_hosts.gz",
+          "size": "1193 MB",
+          "hash": "D80371286F36C5A7F0866511EF73F39FEA76DC3A"
+        },
+        "20160919/20160919_names.gz": {
+          "name": "20160919/20160919_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160919/20160919_names.gz",
+          "size": "12 MB",
+          "hash": "E1E1927EBB955191ED573E1714B6840D8661D5FB"
+        }
+      }
+    },
+    {
+      "id": 160,
+      "date": "2016-09-26",
+      "date_utc": 1474848000.0,
+      "files": {
+        "20160926/20160926_certs.gz": {
+          "name": "20160926/20160926_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160926/20160926_certs.gz",
+          "size": "390 MB",
+          "hash": "C7692E057B2AB63FC359021BF710DC295CDBAABC"
+        },
+        "20160926/20160926_hosts.gz": {
+          "name": "20160926/20160926_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160926/20160926_hosts.gz",
+          "size": "1198 MB",
+          "hash": "5BE29F220A2FE7A9DE585097EFAE21B44CC13C6B"
+        },
+        "20160926/20160926_names.gz": {
+          "name": "20160926/20160926_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20160926/20160926_names.gz",
+          "size": "18 MB",
+          "hash": "B779D16E8406AE6DF73C867CB9A493FF593A6B1C"
+        }
+      }
+    },
+    {
+      "id": 161,
+      "date": "2016-10-03",
+      "date_utc": 1475452800.0,
+      "files": {
+        "20161003/20161003_certs.gz": {
+          "name": "20161003/20161003_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161003/20161003_certs.gz",
+          "size": "392 MB",
+          "hash": "578F82D89F682F704C4E205FC2DFE94CCF3ABA6F"
+        },
+        "20161003/20161003_hosts.gz": {
+          "name": "20161003/20161003_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161003/20161003_hosts.gz",
+          "size": "1201 MB",
+          "hash": "7E65C30D9F14D8E730F1BE08E98A96B9B8C34C2F"
+        },
+        "20161003/20161003_names.gz": {
+          "name": "20161003/20161003_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161003/20161003_names.gz",
+          "size": "18 MB",
+          "hash": "D364854FF4C5C7E60133330A6A50F8BFBABC00CA"
+        }
+      }
+    },
+    {
+      "id": 162,
+      "date": "2016-10-10",
+      "date_utc": 1476057600.0,
+      "files": {
+        "20161010/20161010_certs.gz": {
+          "name": "20161010/20161010_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161010/20161010_certs.gz",
+          "size": "381 MB",
+          "hash": "0D8C295F9ADF9C87464C711DD5F7763DA0B6DFF9"
+        },
+        "20161010/20161010_hosts.gz": {
+          "name": "20161010/20161010_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161010/20161010_hosts.gz",
+          "size": "1193 MB",
+          "hash": "343C5A816D45E367C3AF3822D82FFFF6C0601877"
+        },
+        "20161010/20161010_names.gz": {
+          "name": "20161010/20161010_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161010/20161010_names.gz",
+          "size": "17 MB",
+          "hash": "03C8E168C03C4F0D4ED587695BC3C1C4D6B69CCF"
+        }
+      }
+    },
+    {
+      "id": 163,
+      "date": "2016-10-17",
+      "date_utc": 1476662400.0,
+      "files": {
+        "20161017/20161017_certs.gz": {
+          "name": "20161017/20161017_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161017/20161017_certs.gz",
+          "size": "392 MB",
+          "hash": "854B732588252CFC62428879C7C37E7C3B679C1B"
+        },
+        "20161017/20161017_hosts.gz": {
+          "name": "20161017/20161017_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161017/20161017_hosts.gz",
+          "size": "1184 MB",
+          "hash": "D8B885A936AC9AAB07ADAC7C83D33F07B0DBC5D7"
+        },
+        "20161017/20161017_names.gz": {
+          "name": "20161017/20161017_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161017/20161017_names.gz",
+          "size": "18 MB",
+          "hash": "266E3C586972EDEEC1F5BE2ACBE5F85F29B656A9"
+        }
+      }
+    },
+    {
+      "id": 164,
+      "date": "2016-10-24",
+      "date_utc": 1477267200.0,
+      "files": {
+        "20161024/20161024_certs.gz": {
+          "name": "20161024/20161024_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161024/20161024_certs.gz",
+          "size": "389 MB",
+          "hash": "E32CC33329F003285C174B7998222AD6A680CAE4"
+        },
+        "20161024/20161024_hosts.gz": {
+          "name": "20161024/20161024_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161024/20161024_hosts.gz",
+          "size": "1183 MB",
+          "hash": "4E83C8514C7B1290B3EA8F59F1B322D9D4EAC8A5"
+        },
+        "20161024/20161024_names.gz": {
+          "name": "20161024/20161024_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161024/20161024_names.gz",
+          "size": "18 MB",
+          "hash": "1BB688E8702D1D96E85BCC6343F647E3E8680644"
+        }
+      }
+    },
+    {
+      "id": 165,
+      "date": "2016-10-31",
+      "date_utc": 1477872000.0,
+      "files": {
+        "20161031/20161031_certs.gz": {
+          "name": "20161031/20161031_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161031/20161031_certs.gz",
+          "size": "575 MB",
+          "hash": "4A25AD67B9008FC929307049935C3130FDB1C529"
+        },
+        "20161031/20161031_hosts.gz": {
+          "name": "20161031/20161031_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161031/20161031_hosts.gz",
+          "size": "1180 MB",
+          "hash": "4CE9593F4004BA4E9317D38D7A925A7A4A3F1A07"
+        },
+        "20161031/20161031_names.gz": {
+          "name": "20161031/20161031_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161031/20161031_names.gz",
+          "size": "26 MB",
+          "hash": "72CA6BA4B379395935B1F7EB36D337C1A5F6A75E"
+        }
+      }
+    },
+    {
+      "id": 166,
+      "date": "2016-11-07",
+      "date_utc": 1478476800.0,
+      "files": {
+        "20161107/20161107_certs.gz": {
+          "name": "20161107/20161107_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161107/20161107_certs.gz",
+          "size": "397 MB",
+          "hash": "720932B1E2B2208C4D265129BAD0F3E16070F028"
+        },
+        "20161107/20161107_hosts.gz": {
+          "name": "20161107/20161107_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161107/20161107_hosts.gz",
+          "size": "1176 MB",
+          "hash": "E7BF7BE5E1FC17C93406A59BC93919C1B379C65D"
+        },
+        "20161107/20161107_names.gz": {
+          "name": "20161107/20161107_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161107/20161107_names.gz",
+          "size": "18 MB",
+          "hash": "0120BC1E42634DBA971DFF90618E102333E670F7"
+        }
+      }
+    },
+    {
+      "id": 167,
+      "date": "2016-11-14",
+      "date_utc": 1479081600.0,
+      "files": {
+        "20161114/20161114_certs.gz": {
+          "name": "20161114/20161114_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161114/20161114_certs.gz",
+          "size": "423 MB",
+          "hash": "8BB31936FDBB7B4EDCEA74090E84ED6AF8F603F9"
+        },
+        "20161114/20161114_hosts.gz": {
+          "name": "20161114/20161114_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161114/20161114_hosts.gz",
+          "size": "1179 MB",
+          "hash": "2D2F8DE811C592175E365124378992AD1B6C448E"
+        },
+        "20161114/20161114_names.gz": {
+          "name": "20161114/20161114_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161114/20161114_names.gz",
+          "size": "19 MB",
+          "hash": "87A1C90F9BC0E4A7DAB2E203922E9AD1370560AC"
+        }
+      }
+    },
+    {
+      "id": 168,
+      "date": "2016-11-21",
+      "date_utc": 1479686400.0,
+      "files": {
+        "20161121/20161121_certs.gz": {
+          "name": "20161121/20161121_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161121/20161121_certs.gz",
+          "size": "422 MB",
+          "hash": "9F519C5E4BE58BFB70451F056738EF041A26CFE6"
+        },
+        "20161121/20161121_hosts.gz": {
+          "name": "20161121/20161121_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161121/20161121_hosts.gz",
+          "size": "1180 MB",
+          "hash": "E186E2F0194904547AF419885D07AF404792C10D"
+        },
+        "20161121/20161121_names.gz": {
+          "name": "20161121/20161121_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161121/20161121_names.gz",
+          "size": "19 MB",
+          "hash": "416E3D7E6EABBB5BF9DAEC3F889E1A5496E4C08D"
+        }
+      }
+    },
+    {
+      "id": 169,
+      "date": "2016-11-28",
+      "date_utc": 1480291200.0,
+      "files": {
+        "20161128/20161128_certs.gz": {
+          "name": "20161128/20161128_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161128/20161128_certs.gz",
+          "size": "404 MB",
+          "hash": "D715A6B92ABED24F149FF02C4CCDA859E255CDF8"
+        },
+        "20161128/20161128_hosts.gz": {
+          "name": "20161128/20161128_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161128/20161128_hosts.gz",
+          "size": "1180 MB",
+          "hash": "62C2801711F4BBDD933598F8E243FCA49AA0673D"
+        },
+        "20161128/20161128_names.gz": {
+          "name": "20161128/20161128_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161128/20161128_names.gz",
+          "size": "18 MB",
+          "hash": "1E0B82F99801CEB26FFD7CEDB2BB3CCD433914E1"
+        }
+      }
+    },
+    {
+      "id": 170,
+      "date": "2016-12-05",
+      "date_utc": 1480896000.0,
+      "files": {
+        "20161205/20161205_certs.gz": {
+          "name": "20161205/20161205_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161205/20161205_certs.gz",
+          "size": "420 MB",
+          "hash": "468CF2D2F791A0A19BA115112C0503E180E1C144"
+        },
+        "20161205/20161205_hosts.gz": {
+          "name": "20161205/20161205_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161205/20161205_hosts.gz",
+          "size": "1182 MB",
+          "hash": "1B722D96240F28AFA616268E6AC0826C12FE8EBE"
+        },
+        "20161205/20161205_names.gz": {
+          "name": "20161205/20161205_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161205/20161205_names.gz",
+          "size": "19 MB",
+          "hash": "A4CA4F1A73EB4AE1B745C2DD4C50D58E3A395E3C"
+        }
+      }
+    },
+    {
+      "id": 171,
+      "date": "2016-12-12",
+      "date_utc": 1481500800.0,
+      "files": {
+        "20161212/20161212_certs.gz": {
+          "name": "20161212/20161212_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161212/20161212_certs.gz",
+          "size": "410 MB",
+          "hash": "9F62A81498BFEC081225F38073DEA9F365344F58"
+        },
+        "20161212/20161212_hosts.gz": {
+          "name": "20161212/20161212_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161212/20161212_hosts.gz",
+          "size": "1175 MB",
+          "hash": "FA3EC212DDC82CAB7685DA68D3013E9C11729EBD"
+        },
+        "20161212/20161212_names.gz": {
+          "name": "20161212/20161212_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161212/20161212_names.gz",
+          "size": "18 MB",
+          "hash": "EE6C9FFC1602BA5CD1FD69939CA15D235A966F1E"
+        }
+      }
+    },
+    {
+      "id": 172,
+      "date": "2016-12-19",
+      "date_utc": 1482105600.0,
+      "files": {
+        "20161219/20161219_certs.gz": {
+          "name": "20161219/20161219_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161219/20161219_certs.gz",
+          "size": "413 MB",
+          "hash": "D3D2DFAD5F7BE349CBF3275EEEC4D0C732CC50CD"
+        },
+        "20161219/20161219_hosts.gz": {
+          "name": "20161219/20161219_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161219/20161219_hosts.gz",
+          "size": "1164 MB",
+          "hash": "508B17B0B94F8549056D08E641045B690C5DE9CE"
+        },
+        "20161219/20161219_names.gz": {
+          "name": "20161219/20161219_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161219/20161219_names.gz",
+          "size": "19 MB",
+          "hash": "0B6BBC969E35BC6C7D463CAFDB5240121706E393"
+        }
+      }
+    },
+    {
+      "id": 173,
+      "date": "2016-12-26",
+      "date_utc": 1482710400.0,
+      "files": {
+        "20161226/20161226_certs.gz": {
+          "name": "20161226/20161226_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161226/20161226_certs.gz",
+          "size": "393 MB",
+          "hash": "D7ABAC1B250FE6E41D9DCB0CD465B2EAA3DC748A"
+        },
+        "20161226/20161226_hosts.gz": {
+          "name": "20161226/20161226_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161226/20161226_hosts.gz",
+          "size": "1162 MB",
+          "hash": "FACCDA2AB68CDA1EF878E3F7F93AC663B6F36ACF"
+        },
+        "20161226/20161226_names.gz": {
+          "name": "20161226/20161226_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20161226/20161226_names.gz",
+          "size": "18 MB",
+          "hash": "6362E4A9B1B6EC6F11CD5E413C1211A372AC6761"
+        }
+      }
+    },
+    {
+      "id": 174,
+      "date": "2017-01-02",
+      "date_utc": 1483315200.0,
+      "files": {
+        "20170102/20170102_certs.gz": {
+          "name": "20170102/20170102_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170102/20170102_certs.gz",
+          "size": "351 MB",
+          "hash": "E49F2C1F1717FC79F99533166B268DE93F884FBC"
+        },
+        "20170102/20170102_hosts.gz": {
+          "name": "20170102/20170102_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170102/20170102_hosts.gz",
+          "size": "1160 MB",
+          "hash": "358F97A68A94BA3B6C65F099D1CE8FBC263B132F"
+        },
+        "20170102/20170102_names.gz": {
+          "name": "20170102/20170102_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170102/20170102_names.gz",
+          "size": "16 MB",
+          "hash": "866E901746394D7E054635EDE7445848681D29ED"
+        }
+      }
+    },
+    {
+      "id": 175,
+      "date": "2017-01-09",
+      "date_utc": 1483920000.0,
+      "files": {
+        "20170109/20170109_certs.gz": {
+          "name": "20170109/20170109_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170109/20170109_certs.gz",
+          "size": "378 MB",
+          "hash": "9B587EBCA37CC3A516056AFBA1CE09E5CBC91EA1"
+        },
+        "20170109/20170109_hosts.gz": {
+          "name": "20170109/20170109_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170109/20170109_hosts.gz",
+          "size": "1149 MB",
+          "hash": "C233C6319FC72CAA3045742102993DBE7400A039"
+        },
+        "20170109/20170109_names.gz": {
+          "name": "20170109/20170109_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170109/20170109_names.gz",
+          "size": "17 MB",
+          "hash": "8947B575DB593A9A7BCCFC7479221D2FE7F5C927"
+        }
+      }
+    },
+    {
+      "id": 176,
+      "date": "2017-01-16",
+      "date_utc": 1484524800.0,
+      "files": {
+        "20170116/20170116_certs.gz": {
+          "name": "20170116/20170116_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170116/20170116_certs.gz",
+          "size": "408 MB",
+          "hash": "8131712B03122142B7D9B128C2909026BF081CAE"
+        },
+        "20170116/20170116_hosts.gz": {
+          "name": "20170116/20170116_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170116/20170116_hosts.gz",
+          "size": "1143 MB",
+          "hash": "6B20397005C1E00CBD69A32A340F4E9DE3AD7028"
+        },
+        "20170116/20170116_names.gz": {
+          "name": "20170116/20170116_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170116/20170116_names.gz",
+          "size": "18 MB",
+          "hash": "15868A9DDDD4F9A071EC68FD6FB823E0897F6D76"
+        }
+      }
+    },
+    {
+      "id": 177,
+      "date": "2017-01-23",
+      "date_utc": 1485129600.0,
+      "files": {
+        "20170123/20170123_certs.gz": {
+          "name": "20170123/20170123_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170123/20170123_certs.gz",
+          "size": "412 MB",
+          "hash": "4F4BECC41BA7161530E0E812A17F614AAAB00A27"
+        },
+        "20170123/20170123_hosts.gz": {
+          "name": "20170123/20170123_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170123/20170123_hosts.gz",
+          "size": "1147 MB",
+          "hash": "85843B59402EF4B73581CF907EDEFFFD6808FB53"
+        },
+        "20170123/20170123_names.gz": {
+          "name": "20170123/20170123_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170123/20170123_names.gz",
+          "size": "18 MB",
+          "hash": "0192E82C1A0E97DBD0639188D899080AE9F4997B"
+        }
+      }
+    },
+    {
+      "id": 178,
+      "date": "2017-01-30",
+      "date_utc": 1485734400.0,
+      "files": {
+        "20170130/20170130_certs.gz": {
+          "name": "20170130/20170130_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170130/20170130_certs.gz",
+          "size": "412 MB",
+          "hash": "8C7D07ECDAD00844C64330B0018FC28748811A40"
+        },
+        "20170130/20170130_hosts.gz": {
+          "name": "20170130/20170130_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170130/20170130_hosts.gz",
+          "size": "1148 MB",
+          "hash": "B3E72F65F1C98F377FACDD7F1727AC6D0AEBAE64"
+        },
+        "20170130/20170130_names.gz": {
+          "name": "20170130/20170130_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170130/20170130_names.gz",
+          "size": "18 MB",
+          "hash": "60447EF35C41D4ED65DBD55238A2B7A66A4B317E"
+        }
+      }
+    },
+    {
+      "id": 179,
+      "date": "2017-02-06",
+      "date_utc": 1486339200.0,
+      "files": {
+        "20170206/20170206_certs.gz": {
+          "name": "20170206/20170206_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170206/20170206_certs.gz",
+          "size": "431 MB",
+          "hash": "654887EE36476E4A44962C2065DF55EDCC271580"
+        },
+        "20170206/20170206_endpoints.gz": {
+          "name": "20170206/20170206_endpoints.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170206/20170206_endpoints.gz",
+          "size": "1186 MB",
+          "hash": "B9848392C9B53F3FCA36A880852A4499E07E1B58"
+        },
+        "20170206/20170206_hosts.gz": {
+          "name": "20170206/20170206_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170206/20170206_hosts.gz",
+          "size": "1156 MB",
+          "hash": "345247874D933CA8593DBBE3CEEFDD992A2E11B6"
+        },
+        "20170206/20170206_names.gz": {
+          "name": "20170206/20170206_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170206/20170206_names.gz",
+          "size": "19 MB",
+          "hash": "64186DE9A4395B1E61788B661CC3839706EA368D"
+        }
+      }
+    },
+    {
+      "id": 180,
+      "date": "2017-02-13",
+      "date_utc": 1486944000.0,
+      "files": {
+        "20170213/20170213_certs.gz": {
+          "name": "20170213/20170213_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170213/20170213_certs.gz",
+          "size": "416 MB",
+          "hash": "F62BD11985CEDCDF56C05338D95B8BA33BE4EA68"
+        },
+        "20170213/20170213_endpoints.gz": {
+          "name": "20170213/20170213_endpoints.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170213/20170213_endpoints.gz",
+          "size": "1188 MB",
+          "hash": "E66012CAF173B41538818A37E48AC627436CA1B9"
+        },
+        "20170213/20170213_hosts.gz": {
+          "name": "20170213/20170213_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170213/20170213_hosts.gz",
+          "size": "1159 MB",
+          "hash": "5F215FC7B2305E01B10855D15DDB70F29FCD48A7"
+        },
+        "20170213/20170213_names.gz": {
+          "name": "20170213/20170213_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170213/20170213_names.gz",
+          "size": "19 MB",
+          "hash": "D1E426DBEBEC8CF9D6FBE9BCE846A5A8CE52FD53"
+        }
+      }
+    },
+    {
+      "id": 181,
+      "date": "2017-02-20",
+      "date_utc": 1487548800.0,
+      "files": {
+        "20170220/20170220_ssl_443_certs.gz": {
+          "name": "20170220/20170220_ssl_443_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170220/20170220_ssl_443_certs.gz",
+          "size": "416 MB",
+          "hash": "EE67FEFB42BC368741FA8EE434ED3D50B3900246"
+        },
+        "20170220/20170220_ssl_443_endpoints.gz": {
+          "name": "20170220/20170220_ssl_443_endpoints.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170220/20170220_ssl_443_endpoints.gz",
+          "size": "1195 MB",
+          "hash": "865A4C77088F0B38ED070E9200C89EFD0A6EDC95"
+        },
+        "20170220/20170220_ssl_443_hosts.gz": {
+          "name": "20170220/20170220_ssl_443_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170220/20170220_ssl_443_hosts.gz",
+          "size": "1165 MB",
+          "hash": "3418B3BEF98C1D0A881023CD708CC3D4E0C6EA9D"
+        },
+        "20170220/20170220_ssl_443_names.gz": {
+          "name": "20170220/20170220_ssl_443_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170220/20170220_ssl_443_names.gz",
+          "size": "19 MB",
+          "hash": "0837BB3064308DA3A7E56A50954636CC488926F9"
+        }
+      }
+    },
+    {
+      "id": 182,
+      "date": "2017-02-27",
+      "date_utc": 1488153600.0,
+      "files": {
+        "20170227/20170227_ssl_443_certs.gz": {
+          "name": "20170227/20170227_ssl_443_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170227/20170227_ssl_443_certs.gz",
+          "size": "410 MB",
+          "hash": "F1A01582D4D8B3D1DD74160C7A924ADB35E07266"
+        },
+        "20170227/20170227_ssl_443_endpoints.gz": {
+          "name": "20170227/20170227_ssl_443_endpoints.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170227/20170227_ssl_443_endpoints.gz",
+          "size": "1195 MB",
+          "hash": "2E54C2C2017A9901F34E05F18BD9F24276E3AE9B"
+        },
+        "20170227/20170227_ssl_443_hosts.gz": {
+          "name": "20170227/20170227_ssl_443_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170227/20170227_ssl_443_hosts.gz",
+          "size": "1165 MB",
+          "hash": "857CEC106DCB8B10906E37A5A226FF793A1C9F0D"
+        },
+        "20170227/20170227_ssl_443_names.gz": {
+          "name": "20170227/20170227_ssl_443_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170227/20170227_ssl_443_names.gz",
+          "size": "18 MB",
+          "hash": "0BBA64FB079D54ABCDE916969C71002C4BF531A7"
+        }
+      }
+    },
+    {
+      "id": 183,
+      "date": "2017-03-06",
+      "date_utc": 1488758400.0,
+      "files": {
+        "20170306/20170306_ssl_443_certs.gz": {
+          "name": "20170306/20170306_ssl_443_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170306/20170306_ssl_443_certs.gz",
+          "size": "430 MB",
+          "hash": "E465DD86D842A9ECA99F419529C21C59E8D34A06"
+        },
+        "20170306/20170306_ssl_443_endpoints.gz": {
+          "name": "20170306/20170306_ssl_443_endpoints.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170306/20170306_ssl_443_endpoints.gz",
+          "size": "1189 MB",
+          "hash": "394A90F06D01FE243EDCEA604CEA63ACF7CB1A85"
+        },
+        "20170306/20170306_ssl_443_hosts.gz": {
+          "name": "20170306/20170306_ssl_443_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170306/20170306_ssl_443_hosts.gz",
+          "size": "1160 MB",
+          "hash": "7FF006102F3B84E4E16011C8D761CC7F39FC44B4"
+        },
+        "20170306/20170306_ssl_443_names.gz": {
+          "name": "20170306/20170306_ssl_443_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170306/20170306_ssl_443_names.gz",
+          "size": "19 MB",
+          "hash": "097FE00AB73908A37A49A9FE5C4A2B203C2AD466"
+        }
+      }
+    },
+    {
+      "id": 184,
+      "date": "2017-03-13",
+      "date_utc": 1489363200.0,
+      "files": {
+        "20170313/20170313_ssl_443_certs.gz": {
+          "name": "20170313/20170313_ssl_443_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170313/20170313_ssl_443_certs.gz",
+          "size": "558 MB",
+          "hash": "B7CEFCE4469AF7D51560E4DB82CE3A0E5CC1F3F9"
+        },
+        "20170313/20170313_ssl_443_endpoints.gz": {
+          "name": "20170313/20170313_ssl_443_endpoints.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170313/20170313_ssl_443_endpoints.gz",
+          "size": "1185 MB",
+          "hash": "139B1732868B7BB909852ADF25D531B40DDBCAD7"
+        },
+        "20170313/20170313_ssl_443_hosts.gz": {
+          "name": "20170313/20170313_ssl_443_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170313/20170313_ssl_443_hosts.gz",
+          "size": "1155 MB",
+          "hash": "C67AEC24A59AEA3689D8F166B7E528C6ADA27983"
+        },
+        "20170313/20170313_ssl_443_names.gz": {
+          "name": "20170313/20170313_ssl_443_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170313/20170313_ssl_443_names.gz",
+          "size": "25 MB",
+          "hash": "7FF8529F04869D99A8679B907F24781ACB7898C1"
+        }
+      }
+    },
+    {
+      "id": 185,
+      "date": "2017-03-20",
+      "date_utc": 1489968000.0,
+      "files": {
+        "20170320/20170320_ssl_443_certs.gz": {
+          "name": "20170320/20170320_ssl_443_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170320/20170320_ssl_443_certs.gz",
+          "size": "455 MB",
+          "hash": "094F155D3D559862AFDF0E509355553D5F12FFCC"
+        },
+        "20170320/20170320_ssl_443_endpoints.gz": {
+          "name": "20170320/20170320_ssl_443_endpoints.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170320/20170320_ssl_443_endpoints.gz",
+          "size": "1189 MB",
+          "hash": "A41D5AEDAD6C8611F8F2B158CCE656B0EA05CEC0"
+        },
+        "20170320/20170320_ssl_443_hosts.gz": {
+          "name": "20170320/20170320_ssl_443_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170320/20170320_ssl_443_hosts.gz",
+          "size": "1160 MB",
+          "hash": "FEA5A42361DD9F7FC420AE15BA4A6C8E75F94010"
+        },
+        "20170320/20170320_ssl_443_names.gz": {
+          "name": "20170320/20170320_ssl_443_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170320/20170320_ssl_443_names.gz",
+          "size": "21 MB",
+          "hash": "AE5521BB3257A4B61136BE43B1F382C0F670977C"
+        }
+      }
+    },
+    {
+      "id": 186,
+      "date": "2017-03-27",
+      "date_utc": 1490572800.0,
+      "files": {
+        "20170327/20170327_ssl_443_certs.gz": {
+          "name": "20170327/20170327_ssl_443_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170327/20170327_ssl_443_certs.gz",
+          "size": "253 MB",
+          "hash": "F082CEA0CBE6B3B5BA0A3B6F373274D1AD1C44E9"
+        },
+        "20170327/20170327_ssl_443_endpoints.gz": {
+          "name": "20170327/20170327_ssl_443_endpoints.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170327/20170327_ssl_443_endpoints.gz",
+          "size": "1191 MB",
+          "hash": "5112FB11004F428EEDDED3532A68B331468B0136"
+        },
+        "20170327/20170327_ssl_443_hosts.gz": {
+          "name": "20170327/20170327_ssl_443_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170327/20170327_ssl_443_hosts.gz",
+          "size": "1162 MB",
+          "hash": "15690701CBD58A513F383D66F4DA7B9E9D3A2A14"
+        },
+        "20170327/20170327_ssl_443_names.gz": {
+          "name": "20170327/20170327_ssl_443_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170327/20170327_ssl_443_names.gz",
+          "size": "12 MB",
+          "hash": "46B06CB12DA1FE00F5F5D49E532C4A5F6B5DCDAF"
+        }
+      }
+    },
+    {
+      "id": 187,
+      "date": "2017-04-03",
+      "date_utc": 1491177600.0,
+      "files": {
+        "20170403/20170403_ssl_443_certs.gz": {
+          "name": "20170403/20170403_ssl_443_certs.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170403/20170403_ssl_443_certs.gz",
+          "size": "441 MB",
+          "hash": "783963BE54B88A8A270A6BEAE2C634EEBAADB324"
+        },
+        "20170403/20170403_ssl_443_endpoints.gz": {
+          "name": "20170403/20170403_ssl_443_endpoints.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170403/20170403_ssl_443_endpoints.gz",
+          "size": "1195 MB",
+          "hash": "0C0035DF93BC8A050227C2A693B0F9DB159BDBB2"
+        },
+        "20170403/20170403_ssl_443_hosts.gz": {
+          "name": "20170403/20170403_ssl_443_hosts.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170403/20170403_ssl_443_hosts.gz",
+          "size": "1165 MB",
+          "hash": "26AF081758E724F325815AEC38820A003401A1B1"
+        },
+        "20170403/20170403_ssl_443_names.gz": {
+          "name": "20170403/20170403_ssl_443_names.gz",
+          "href": "https://scans.io/data/rapid7/sonar.ssl/20170403/20170403_ssl_443_names.gz",
+          "size": "20 MB",
+          "hash": "CFCE693E487B600DFB085A28C2C013030ADA8E4A"
+        }
+      }
+    }
+  ]
+}
