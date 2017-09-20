@@ -40,7 +40,7 @@ class Recode(object):
         https://scans.io/study/sonar.ssl
         :return:
         """
-        parser = argparse.ArgumentParser(description='Processes Censys links from the page, generates json')
+        parser = argparse.ArgumentParser(description='Recoding big sonarssl file to the incremental one')
 
         parser.add_argument('--url', dest='url', nargs=argparse.ZERO_OR_MORE, default=[],
                             help='censys links')

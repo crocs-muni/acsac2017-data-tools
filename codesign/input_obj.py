@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Input objects taken from polynomial verifiers
+Input objects (stream processing) taken from polynomial verifiers
 """
 
 

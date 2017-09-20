@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+"""
+Basic database utils.
+"""
+
 import os
 import utils as util
 import errors
@@ -23,11 +27,6 @@ from sqlalchemy.dialects.mysql import INTEGER
 import sqlalchemy as sa
 from warnings import filterwarnings
 import MySQLdb as MySQLDatabase
-
-
-"""
-Basic database utils.
-"""
 
 logger = logging.getLogger(__name__)
 

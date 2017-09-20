@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import os
-import json
-import collections
-
 """
 Basic database utils.
 """
+
+import os
+import json
+import collections
 
 
 # Database credentials loaded from the DB config file

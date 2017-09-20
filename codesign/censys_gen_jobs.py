@@ -25,7 +25,7 @@ coloredlogs.install(level=logging.DEBUG)
 
 def main():
     """
-    Generate censys jobs
+    Generate censys jobs for PBSPro
     https://censys.io/data/443-https-tls-alexa_top1mil/historical
     https://censys.io/data/443-https-tls-full_ipv4/historical
     :return:

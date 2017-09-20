@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+"""
+Processing censys sonarssl link page to the json
+https://scans.io/study/sonar.ssl
+"""
+
 __author__ = 'dusanklinec'
 
 from past.builtins import cmp

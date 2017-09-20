@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+"""
+Processing censys link page to the json
+"""
+
 __author__ = 'dusanklinec'
 
 from past.builtins import cmp
