@@ -9,10 +9,19 @@ The scripts are usually directly runnable from the command line. Try invoking wi
 * `censys_*` others than above are general tools related to Censys TLS scans data processing.
 * `pgp_*` scripts are related to the PGP dataset processing. The main processing script is `pgp_classif.py`.
 
-For Censys scripts you need an user account to get the data. Then you need to parse the HTML page to the JSON file
-that is input to the further processing scripts (process/recode).
-
 Some recoding scripts may need large amount of RAM (e.g., eco recode needs 80 GB RAM).
+
+The processing is built on the PBSPro job scheduler. Jobs are generated as shell scripts and submitted to the scheduler.
+Jobs usually use the shared data mount to put the results in.
+
+## Censys
+
+* For Censys scripts you need an user account to get the data.
+* Convert links to JSON file: When logged in, download the HTML page with links,
+call `python codesign/censys_links.py downloadedpage.html >> censys_links.json`
+* Process the dataset on the fly (one file only): `stdbuf -eL censys_tls_wrapper.sh --debug --link-file censys_links.json --link-idx 10 --data "/tmp" --continue --sec`
+
+For the real large scale processing one would need to generate jobs as described below and schedule them with PBSPro.
 
 # Experiments with PBSPro
 
