@@ -9,6 +9,11 @@ The scripts are usually directly runnable from the command line. Try invoking wi
 * `censys_*` others than above are general tools related to Censys TLS scans data processing.
 * `pgp_*` scripts are related to the PGP dataset processing
 
+For Censys scripts you need an user account to get the data. Then you need to parse the HTML page to the JSON file
+that is input to the further processing scripts (process/recode).
+
+Some recoding scripts may need large amount of RAM (e.g., eco recode needs 80 GB RAM).
+
 # Experiments with PBSPro
 
 ## Generate TLS fetch jobs
