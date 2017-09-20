@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Parses maven signature file
+Downloads PGP key based on the key id
 """
 
 

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Key fingerprinting
+PGP key analysis
 """
 
 import json
