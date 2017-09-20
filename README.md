@@ -7,7 +7,7 @@ The scripts are usually directly runnable from the command line. Try invoking wi
 * `censys_eco_*` scripts are related to the HTTPS Ecosystem dataset processing.
 * `censys_sonarssl_*` scripts are related to the SonarSSL dataset processing.
 * `censys_*` others than above are general tools related to Censys TLS scans data processing.
-* `pgp_*` scripts are related to the PGP dataset processing
+* `pgp_*` scripts are related to the PGP dataset processing. The main processing script is `pgp_classif.py`.
 
 For Censys scripts you need an user account to get the data. Then you need to parse the HTML page to the JSON file
 that is input to the further processing scripts (process/recode).
